@@ -1,0 +1,160 @@
+Haemorrhage|131148009
+in bile|70150004
+
+Implies
+bleeding|131148009
+into biliary tree.|34707002
+
+Can
+present|52101004|246105001
+as acute upper gastrointestinal|272118002|127868003
+(UGI|229037007
+)
+bleeding.|131148009
+
+It
+should
+be
+considered
+in upper abdominal pain presenting|83132003|246105001
+with UGI|229037007
+bleeding|131148009
+especially
+when
+there
+is
+a history|392521001
+of liver injury|39400004
+or
+instrumentation.|57134006|309824003
+
+"Quinke's" triad
+of upper abdominal pain,|83132003
+upper gastrointestinal haemorrhage|37372002
+and
+jaundice[3]|18165001
+is
+classical|255333006|260997001
+but
+only
+present|52101004|246105001
+in 22% cases.[4]|398241000|413769002
+
+It
+can
+be
+immediately life threatening|49499008|224130005
+in major bleeding.|255603008|131148009
+
+However,
+in minor haemobilia,|410599005|66556007|255606000|66556007
+patient|116154003
+is
+haemodynamically stable|301459008
+despite significant blood loss|386134007|131148009|386134007|250771004
+being
+apparent.[4]
+
+Combination|89780004
+of OGD,|254144002
+CT scan|77477000
+and
+angiography|77343006
+depending
+on clinical situation,|58147004
+bearing|106970005|81827009|398209006
+in
+mind
+that haemobilia|66556007
+may
+present|52101004|246105001
+many days|258703001
+after injury.
+
+Cholangiography|28367004
+is
+performed|398166005
+if there
+is
+a percutaneous access|103388001|260507000
+or
+if ERCP|386718000
+is
+undertaken.
+
+Most
+bleeding|131148009
+from instrumentation|57134006|309824003
+are
+minor|410599005|255606000
+and
+would
+settle|128719006
+spontaneously.
+
+When
+indicated|410535002
+,
+management|413454004|119270007
+is
+directed|255589003
+towards stopping bleeding|260890000|131148009|385654001|131148009|422117008|131148009
+and
+relieving|1241001|397855004|398004007
+obstruction|26036001
+if
+present,|52101004|246105001
+which
+is
+achieved
+either
+by surgical ligation|83578000|70751009
+of hepatic artery|76015000
+or
+by endoscopic embolisation.|423827005|122463005|122463005
+
+Endoscopic trans-arterial embolisation (TAE)|423827005|103387006|122463005|103387006|122463005
+is
+preferred initially|225773000|884001
+because of high success rate|75540009|385669000|371879000|385669000
+and
+less complication.|276139006|116223007|276139006|263718001|263796003|116223007|263796003|263718001
+
+TAE
+involves|248448006
+the selective catheterization|45211000
+of a hepatic artery|76015000
+followed|367409002
+by embolic occlusion.|414086009|25272006|414086009|26036001|414086009|257885003|414086009|263823007
+
+Surgery|83578000
+is
+indicated|410535002
+when
+TAE
+has
+failed
+or
+sepsis present|105592009|52101004|105592009|246105001|91302008|52101004|91302008|246105001
+in biliary tree|34707002
+or
+drainage|307488001|122462000
+has
+failed.
+
+M
+:
+DIG
+
+anat(t,
+g,|258795003
+p/phys/devp/enzy|20304007
+
+noco/cong/tumr,
+sysi/epon
+
+proc,
+drug|410942007
+(A2A/2B/3/4/5/6/7/14/16,|264663000
+blte
+

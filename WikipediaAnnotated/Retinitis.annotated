@@ -1,0 +1,41 @@
+*
+*Retinitis|399463004
+*
+*
+is
+inflammation|257552002
+of the retina|5665001|181171005
+in the eye.|81745001|244486005
+
+M
+:
+EYE|81745001|244486005
+
+anat(g/a/p/phys/devp/prot|258795003|304383000
+
+noco/cong/tumr,
+epon
+
+proc,
+drug|410942007
+(S1A/1E/1F/1L
+
+Arthritis ? Dermatomyositis ? _soft tissue_|3723001|396230008|181607009|3723001|396229003|181607009
+(Myositis,|26889001
+Synovitis/Tenosynovitis,|416209007|67801009
+Bursitis,|84017003
+Enthesitis,|359643005
+Fasciitis,|36948007
+Capsulitis,|6858004
+Epicondylitis,|73583000
+Tendinitis,|34840004
+Panniculitis|22125009
+
+_female|248152002|224526002
+:
+_ Oophoritis ? Salpingitis ? Endometritis ? Parametritis ? Cervicitis ? Vaginitis ? Vulvitis ? Mastitis|76047005|88157006|78623009|280483007|37610005|30800001|63144007|45198002|76047005|88157006|78623009|280483007|37610005|237091009|63144007|45198002
+
+_male|248153007
+:
+_ Orchitis ? Epididymitis ? Prostatitis ? Balanitis ? Balanoposthitis|197983000|9713002|44882003|46090001
+

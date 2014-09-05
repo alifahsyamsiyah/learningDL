@@ -1,0 +1,319 @@
+*
+*Hemopneumothorax|16632002
+*
+*,
+or
+*
+*haemopneumothorax|16632002
+*
+*,
+is
+a medical term|74188005
+describing
+the combination|89780004
+of two conditions|420797005|260905004
+:
+pneumothorax,|36118008
+or
+air|417696007
+in the chest cavity,|43799004
+and
+hemothorax|31892009
+(also called h?mothorax|89177007|258322007|286551008
+)
+,
+or
+blood|87612001|119273009
+in the chest cavity.|43799004
+
+A haemothorax,|31892009
+pneumothorax|36118008
+or
+both
+can
+occur|272120004
+if
+the chest wall|78904004|181608004
+is
+punctured.|11639007
+
+To
+understand|66216009
+the ramifications
+of this
+it
+is
+important to
+have
+an understanding|66216009
+of the role
+of the pleural space.|3120008|264148002
+
+The pleural space|3120008|264148002
+is
+located anatomically
+between the visceral membrane,|263928002|83097008
+which
+is
+firmly
+attached|102491009
+to the lungs,|39607008
+and
+the parietal membrane|263832009|83097008
+which
+is
+firmly
+attached|102491009
+to the chest wall|78904004|181608004
+(aka ribcage|60413009
+and
+intercostal muscles,|86419007
+muscles|91727004
+between the ribs|113197003
+).
+
+The pleural space|3120008|264148002
+contains|42504009
+pleural fluid.|2778004
+
+This fluid|32457005|33463005|255765007
+holds|421139008
+the two membranes together|420797005|83097008
+by surface tension,|410678000|53489000
+much
+as a drop|404218003
+of water|11713004|119318008
+between two sheets|420797005|255292000
+of glass|32039001
+prevents|116699007
+them
+from separating.|263869007
+
+Because of this,
+when
+the intercostal muscles|86419007
+move|302000008|384598002|370125004
+the ribcage|60413009
+outward,|255543005
+the lungs|39607008
+are
+pulled|303370007
+out
+as well, dropping|20572008|426684005|20572008|404218003
+the pressure|279046003|13543005|257893003
+in the lungs|39607008
+and
+pulling air|303370007|417696007
+into the bronchi,|955009
+when
+we 'breathe|14910006|258162000
+in'.
+
+The pleural space|3120008|264148002
+is
+maintained|385630006
+in a constant state|398070004
+of negative pressure|260385009|279046003|260385009|13543005|260385009|257893003
+(
+in comparison
+to atmospheric pressure|40513000
+).
+
+If
+the chest wall,|78904004|181608004
+and
+thus
+the pleural space,|3120008|264148002
+is
+punctured,|11639007
+blood,|87612001|119273009
+air|417696007
+or
+both
+can
+enter|417985001
+the pleural space.|3120008|264148002
+
+Air/blood rushes|417696007|87612001|262118001|417696007|119273009|262118001
+into the space
+in order to
+equalise
+the pressure|279046003|13543005|257893003
+with that
+of the atmosphere.|304607008
+
+As a
+result|394617004
+the fluid|32457005|33463005|255765007
+is
+disrupted
+and
+the two membranes|420797005|83097008
+no longer|255511005
+adhere|102491009
+to each other.
+
+When
+the rib cage|60413009
+moves|302000008
+out,|255529000
+it
+no longer|255511005
+pulls|303370007
+the lungs|39607008
+with it.
+
+Thus
+the lungs|39607008
+cannot
+expand|70955005
+,
+the pressure|279046003|13543005|257893003
+in the lungs never|39607008
+drops|426684005|404218003
+and
+no air|417696007
+is
+pulled|303370007
+into the bronchi.|955009
+
+Respiration|258162000
+is
+not possible.|371930009|60022001
+
+The affected lung,|247591002|39607008|247591002|181216001|248448006|39607008|248448006|181216001
+which
+has
+a great deal|255509001|263768009
+of elastic tissue,|27197004
+shrivels
+in what
+is
+referred to|439980006
+as
+a collapsed lung.|46621007
+
+Treatment|276239002|416118004
+for this condition|260905004
+is
+the same|262126009
+as for hemothorax|31892009
+and
+pneumothorax independently|36118008
+:
+by tube thoracostomy,|264957007
+the insertion|71861002|257867005
+of a chest drain|258643002
+through an incision|34896006
+made
+between the ribs,|113197003
+into the intercostal space.|47495005|243937005
+
+A chest tube|258643002
+must
+be
+inserted|257867005
+to
+drain|32712000
+blood|87612001|119273009
+and
+air|417696007
+from the pleural space|3120008|264148002
+so
+it
+can
+return|7528007
+to a state|398070004
+of negative pressure|260385009|279046003|260385009|13543005|260385009|257893003
+and
+function|246464006
+normally.
+
+Commonly,
+surgery|83578000
+is
+needed to|410525008|103325001
+close|29179001
+off whatever injuries
+caused|23981006|134198009
+the blood|87612001|119273009
+and
+air to|417696007
+enter|417985001
+the cavity|80967001|91806002|2483006
+(e.g.|258795003
+
+stabbing,|242879005|410706007
+broken ribs|33737001
+).
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+
+M
+:
+VAS|273903006
+
+anat(
+a
+:
+h/u/t/a/l,v:h/u/t/a/l/phys/devp/cell/prot|4421005|304383000|362837007|304383000
+
+noco/syva/cong/lyvd/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C2s+n/3/4/5/7/8/9
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+

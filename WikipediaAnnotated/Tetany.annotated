@@ -1,0 +1,245 @@
+*
+*Tetany|10629009
+*
+*
+or
+tetany seizure|10629009|91175000
+is
+a medical sign|74188005|72670004
+consisting
+of the involuntary contraction|78558002
+of muscles,|91727004
+which
+may
+be
+caused|23981006|134198009
+by disease|64572001
+or
+other conditions|74964007|260905004
+that
+increase|260366006
+the action potential frequency.|129264002|30207005|260864003|129264002|30207005|272123002
+
+Muscle cramps|55300003
+that
+are
+caused|23981006|134198009
+by the disease tetanus|64572001|76902006
+are
+not
+classified|73504009
+as tetany|10629009
+;
+rather,
+they
+are
+due to a blocking|2899008|112232007
+of the inhibition|61511001|419495008
+to the neurons|47220008
+that
+supply|425398004
+muscles.|91727004
+
+Low calcium levels|62482003|71878006|371880002|71878006
+in the bloodstream
+increase|260366006
+the permeability|82540007
+of neuronal membranes|47220008|83097008
+to sodium ions,|39972003|48006008
+causing|23981006
+a progressive depolarization,|255314001
+which
+increases|260366006
+the possibility
+of action potentials.|129264002|30207005
+
+If
+the plasma Ca2+|419185008
+decreases|260370003
+to less
+than 50%
+of the normal value|260395002
+of 9.4 mg/dl,|258797006
+action potentials|129264002|30207005
+may
+be
+spontaneously
+generated
+,
+causing|23981006
+contraction|78558002
+of peripheral skeletal muscles.[1]|14414005|127954009
+
+An excess|260378005
+of potassium|88480006
+in grass hay|422304003
+or
+pasture
+can
+trigger|410658008
+winter tetany,|10629009
+or
+grass tetany,|405252008|405254009
+in ruminants.
+
+French Professor Armand Trousseau|19434008
+(1801-1867
+)
+devised
+the trick
+(now
+known|36692007
+as the Trousseau sign|112099006
+of latent tetany|44104002|10629009
+of occluding|26036001
+the brachial artery|17137000|181322008
+by squeezing,|241978003
+to
+trigger|410658008
+cramps|55300003
+in the fingers.|7569003|259052003
+
+Also,
+tetany|10629009
+can
+be
+demonstrated
+by tapping anterior|86088003|255549009
+to the ear,|117590005|1910005
+at the emergence
+of the facial nerve.|56052001
+
+This
+is
+now
+known|36692007
+as the Chvostek sign.|44717005
+
+Tetany|10629009
+is
+characterized
+by contraction|78558002
+of distal muscles|46053002|91727004
+of the hands|85562004
+(carpal spasm|83936004|45352006|74670003|45352006
+with extension|255536004
+of interphalangeal joints|416599001
+and
+adduction|11554009
+and
+flexion|9964006
+of the metacarpophalangeal joints|70420003
+)
+and
+feet|56459004|259051005
+(pedal spasm|56459004|45352006
+)
+and
+is
+associated|47429007
+with tingling|162249002
+around the mouth|74262004|123851003|21082005|181220002
+and
+distally
+in the limbs.|66019005
+
+EMG studies|42803009|110465008|42803009|224699009
+reveal|263857004
+single|125681006|50607009
+or
+often grouped motor unit|70232002|255504006|49190004
+discharges|307488001
+at low discharge frequency|5878004|307488001|5878004|58000006
+during tetany episodes.|10629009|272128006
+
+M
+:
+CNS
+
+anat(n/s/m/p/4/e/b/d/c/
+a/f/l/g/phys/devp
+
+noco
+(m/d/e/h/v/s/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(N1A/2AB/C/3/4/7A/B/C/D|277672002
+
+M
+:
+PNS|3058005
+
+anat(h/r/t/c/b/l/s/a/phys
+(r/devp/prot/nttr/nttm/ntrp|24028007|304383000
+
+noco/auto/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(N1B|277674001
+
+M
+:
+MUS,|223541006|447482001
+DF+DRCT
+
+anat (h/n,|89177007|258322007|286551008
+u,
+t/d,
+a/p,
+l/phys/devp/hist|258995007|420559008
+
+noco
+(m,|258311008
+s,|288495006
+c/cong
+(d/tumr,|876000
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M1A/3|261927002
+
+M
+:
+BON/CAR|71783008
+
+anat(c/f/k/f,
+u,
+t/p,
+l/phys/devp/cell|258995007|4421005|258995007|362837007|420559008|4421005|420559008|362837007
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M5
+
+M
+:
+JNT
+
+anat(h/c,|89177007|258322007|286551008
+u,
+t,
+l/phys|258995007|420559008
+
+noco
+(arth/defr/
+back/soft/cong,|37378003
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M01C,
+M4
+

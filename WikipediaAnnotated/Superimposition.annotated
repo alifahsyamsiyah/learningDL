@@ -1,0 +1,127 @@
+In graphics,
+*
+*superimposition|251767007
+*
+*
+is
+the placement|257867005
+of an image
+or
+video|257194007
+on top|421812003
+of an already-existing image
+or
+video,|257194007
+usually to
+add
+to the overall image effect,|253861007
+but
+also sometimes
+to conceal|263721004
+something
+(
+such as
+when
+a different face|263735002|89545001|263735002|302549007
+is
+superimposed
+over the original face|19535007|89545001|19535007|302549007
+in a photograph.|257444003
+
+This technique|272394005
+is
+used|394850002
+in cartography to
+produce
+photomaps
+by superimposing grid lines,|50009006
+contour lines|50009006
+and
+other linear|74964007|50009006
+or
+textual mapping features|360220002
+over aerial photographs.|257444003
+
+Superimposition|251767007
+of 2D images
+containing|42504009
+correlated periodic grid structures|81591007
+may
+produce
+moir? patterns.|272135003
+
+Superimposition|251767007
+of two correlated layers|420797005
+comprising
+parallel lines|50009006
+or
+curves|60301000
+may
+give|419582001
+rise line moir? patterns.|50009006|272135003
+
+The movement|255324009
+of one|421379005
+of the layers
+results|394617004
+in a faster movement|16985007|255324009|277748003|255324009
+of the line moir? superimposition image.|50009006|251767007
+
+Such optical acceleration|281004000|285659007
+is
+known|36692007
+as moir? speedup
+(check|360160009
+for the formulas
+of optical speedup|281004000
+for curved patterns|60301000|272135003
+).
+
+When
+superimposing
+two identical layers|420797005|20323000
+comprising
+randomly spaced parallel lines,|50009006
+at a small angle|255507004|1483009
+or
+with a small scaling difference random line moir? patterns,|255507004|271767006|263735002|262088005|50009006
+namely line Glass patterns|50009006|32039001|272135003
+(
+after Leon Glass,|32039001
+1969
+)
+appear.
+
+Similarly,
+when
+superimposing
+two identical layers|420797005|20323000
+of randomly scattered dots|255393008|420987007
+at a small angle|255507004|1483009
+or
+with a small scaling difference random dot Glass patterns,|255507004|271767006|263735002|262088005|420987007|32039001
+namely random dot moir?,|255226008|420987007
+appears.
+
+When
+one|421379005
+of the layers
+embeds
+complex shapes,|103360007|107644003
+such as sequences|72633008
+of symbols
+forming|35810008
+a text,
+and
+another layer
+contains|42504009
+parallel lines|50009006
+or
+curves,|60301000
+the superimposition image|251767007
+may
+give|419582001
+rise
+to magnified shapes,|107644003
+called shape moir? patterns.|107644003|272135003|246176004|272135003|300842002|272135003
+

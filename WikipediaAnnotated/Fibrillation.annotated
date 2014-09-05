@@ -1,0 +1,220 @@
+*
+*Fibrillation|40593004
+*
+*
+is
+the rapid, irregular,|255358001|49608001
+and
+unsynchronized contraction|78558002
+of muscle fibers.|91727004|400293002|91727004|37202001
+
+An important occurrence|272120004
+is
+with regard
+to the heart.|80891009|302509004
+
+There
+are
+two major classes|420797005|255603008|258391009
+of cardiac fibrillation|40593004
+:
+atrial fibrillation|49436004
+and
+ventricular fibrillation.|71908006
+
+Fibrillation|40593004
+may
+sometimes
+be
+used|394850002
+after heart surgery to|64915003|408466002
+stop|422117008
+the heart|80891009|302509004
+from beating
+while
+any minor leaks|410599005|87952002|255606000|87952002
+are
+stitched
+up.
+
+Fibrillation also|40593004
+occurs|272120004
+with individual skeletal muscle fibers.|125676002|80985008|385435006|80985008
+
+This happens
+when
+muscle ?bers|91727004
+lose
+contact|11723008|70862002
+with their innervating axon|60436000
+producing
+a spontaneous action potential,|5054005|129264002|30207005
+"fibrillation potential"|40593004|30207005
+that results|394617004
+in the muscle fiber's contraction.|12140005|116272000|12140005|400293002|12140005|87028007|12140005|37202001
+
+These contractions|78558002
+are
+not visible|24054004
+under the skin|119325001|39937001|181469002
+and
+are
+detectable
+through needle electromyography (EMG)|79068005|42803009
+and
+ultrasound.|359659005
+
+Fibrillations|40593004
+do
+not
+occur|272120004
+in healthy individuals.|263775005|125676002|263775005|385435006
+
+They
+are
+a major symptom|255603008
+in acute|272118002
+and
+severe peripheral nerve disorders,|24484000|42658009
+in myopathies|129565002
+in which muscle ?bers|91727004
+are
+split
+or
+in?ammed,
+and
+lower motor neuron lesions.|299737009
+
+They
+contrast|263543005
+with fasciculations|82470000
+that
+are
+_visible_ spontaneous contractions|24054004|5054005|78558002
+involving|248448006
+_small groups_|255507004|261586004|255507004|160481000
+of muscle fibers.|91727004|400293002|91727004|37202001
+
+Also,
+fasciculation|82470000
+does
+not necessarily
+denote
+pathology,|394595002
+as
+does
+fibrillation,|40593004
+although
+it
+can
+be
+seen
+in lower motor neuron lesions|299737009
+as well.|20572008
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+
+M
+:
+CNS
+
+anat(n/s/m/p/4/e/b/d/c/
+a/f/l/g/phys/devp
+
+noco
+(m/d/e/h/v/s/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(N1A/2AB/C/3/4/7A/B/C/D|277672002
+
+M
+:
+PNS|3058005
+
+anat(h/r/t/c/b/l/s/a/phys
+(r/devp/prot/nttr/nttm/ntrp|24028007|304383000
+
+noco/auto/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(N1B|277674001
+
+M
+:
+MUS,|223541006|447482001
+DF+DRCT
+
+anat (h/n,|89177007|258322007|286551008
+u,
+t/d,
+a/p,
+l/phys/devp/hist|258995007|420559008
+
+noco
+(m,|258311008
+s,|288495006
+c/cong
+(d/tumr,|876000
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M1A/3|261927002
+
+M
+:
+BON/CAR|71783008
+
+anat(c/f/k/f,
+u,
+t/p,
+l/phys/devp/cell|258995007|4421005|258995007|362837007|420559008|4421005|420559008|362837007
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M5
+
+M
+:
+JNT
+
+anat(h/c,|89177007|258322007|286551008
+u,
+t,
+l/phys|258995007|420559008
+
+noco
+(arth/defr/
+back/soft/cong,|37378003
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(M01C,
+M4
+

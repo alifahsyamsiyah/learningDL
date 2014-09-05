@@ -1,0 +1,122 @@
+A
+*
+*hydrothorax|79231000
+*
+*
+is
+a condition|260905004
+that results|394617004
+from serous fluid accumulating
+in the pleural cavity.|91381003
+
+This specific condition|69658003|260905004
+can
+be
+related|272151006|262094002
+to cirrhosis|19943007
+with ascites|271861000
+in which ascitic fluid leaks|409615008|87952002
+into the pleural cavity.|91381003
+
+Hepatic hydrothorax|32381004|79231000
+is
+often difficult to|70232002|52925006
+manage|119270007
+in end-stage liver failure|42796001|59927004
+and
+often|70232002
+fails
+to
+respond
+to therapy.|276239002
+
+In similar pleural effusions,|60046008
+hemothorax|31892009
+this fluid|32457005|33463005|255765007
+is
+blood|87612001|119273009
+(
+as
+in major chest injuries|255603008|262525000
+)
+,
+in pyothorax|405951008
+the fluid|32457005|33463005|255765007
+is
+pus|11311000|119323008
+(
+resulting|42752001
+from chest infections|195742007
+)
+,
+and
+in chylothorax|83035003
+it
+is
+lymph fluid|38000004
+(
+resulting|42752001
+from rupture|415747007
+of the thoracic duct|1732005
+).
+
+Treatment|276239002|416118004
+of hydrothorax|79231000
+is
+difficult|52925006
+for several reasons.|261028005|410666004
+
+The underlying condition|260905004
+needs|410525008|103325001
+to
+be
+corrected|370975003
+,
+however often|70232002
+the source|260753009
+of the hydrothorax|79231000
+is
+end stage liver disease|300936002|10200004|300936002|181268008
+and
+corrected|370975003
+only
+by transplant.|263903005|24486003
+
+Chest tube placement|258643002|257867005
+should
+not
+occur.|272120004
+
+Other measures|74964007|246445000|74964007|367346004
+such as a TIPS procedure|233445008|71388002
+are
+more effective|242762006|255403003|242762006|254648000
+as
+they
+treat|395077000
+the etiology|134198009
+of the hydrothorax,|79231000
+however
+have
+complications|116223007
+such as worsened hepatic encephalopathy.|390772001|13920009|231877006|13920009
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+

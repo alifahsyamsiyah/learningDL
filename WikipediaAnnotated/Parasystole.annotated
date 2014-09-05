@@ -1,0 +1,203 @@
+*
+*Parasystole|10164001
+*
+*
+is
+a kind|261664005
+of arrhythmia
+caused|23981006|134198009
+by the presence|386397008
+and
+function|246464006
+of a secondary pacemaker|2603003|14106009|81170007|14106009
+in the heart,|80891009|302509004
+which
+works|261041009
+in parallel|52101004|18720000
+with the SA node.|88210001
+
+Parasystolic pacemakers|14106009
+are
+protected
+from depolarization
+by the SA node|88210001
+by some kind|261664005
+of _entrance block_.|89103007|26036001|89103007|112232007
+
+This block|26036001|112232007
+can
+be
+complete|255594003
+or
+incomplete.|255599008|255609007
+
+Parasystolic pacemakers|14106009
+can
+exist
+in both
+the atrium|59652004|261405004
+or
+the ventricle.|21814001
+
+Atrial parasystolia|59652004
+are
+characterized
+by narrow QRS complexes|28630001
+
+Two forms|420797005|246176004
+of ventricular parasystole|59272004
+have
+been
+described
+in the literature,
+fixed parasystole|102491009|10164001|261010008|10164001
+and
+modulated parasystole.|261019009|10164001
+
+Fixed ventricular parasystole|102491009|59272004|261010008|59272004
+occurs|272120004
+when
+an ectopic pacemaker|298109001|14106009
+is
+protected
+by entrance block,|89103007|26036001|89103007|112232007
+and
+thus
+its activity|48761009|55561003|258745004|257733005
+is
+completely independent|371153006
+from the sinus pacemaker activity.|428794004|14106009|48761009|428794004|14106009|55561003|428794004|14106009|258745004|428794004|14106009|257733005|2095001|14106009|48761009|2095001|14106009|55561003|2095001|14106009|258745004|2095001|14106009|257733005
+
+Hence,
+the ectopic pacemaker|298109001|14106009
+is
+expected to
+fire|80032004|257195008
+at a fixed rate.|102491009|261010008
+
+Therefore,
+on ECG,|29303009
+the coupling intervals|385673002
+of the manifest ectopic beats|250255003|29717002
+will
+wander|50239007
+through the basic cycle|44180009|418836005|44180009
+of the sinus rhythm.|251150006
+
+Accordingly,
+the traditional electrocardiographic criteria|263901007|263901007|29303009
+used|394850002
+to
+recognize
+the fixed form|102491009|246176004|261010008|246176004
+of parasystole|10164001
+are
+:
+
+According to the modulated parasystole hypothesis,|261019009|10164001
+rigid constancy|16046003|261026009
+of a pacemaker|14106009
+might
+be
+expected
+if
+the entrance block|89103007|26036001|89103007|112232007
+were
+complete,|255594003
+but
+if there
+is
+an escape route|284009009
+available|103328004
+for the emergence
+of ectopic activity,|298109001|48761009|298109001|55561003|298109001|258745004|298109001|257733005
+then clearly there
+must
+be
+an effective ionic communication,|255403003|48006008|263536004|254648000|48006008|263536004
+not
+complete|255594003
+insulation,
+between the two tissues.|420797005|85756007
+
+If there
+is
+an electrical communication|18213006|263536004|258096005|263536004
+between the two,|420797005
+then
+the depolarization
+of the surrounding ventricle|355648006|21814001
+may
+influence
+the ectopic pacemaker.|298109001|14106009
+
+That influence
+will
+be
+electrotonic
+;
+depolarization
+of the surrounding field|355648006|255798002
+will
+induce|16404004
+a partial depolarization|255609007
+of the pacemaker cells.|14106009|4421005
+
+Therefore,
+appropriate diagnosis|439401001
+of modulated parasystole|261019009|10164001
+relies
+upon the construction|410615009
+of a ?phase response curve?|21191007|60301000
+as theoretical evidence|18669006
+of modulation
+of the ectopic pacemaker cycle length|298109001|14106009|44180009|410668003
+by the electrotonic activity|48761009|55561003|258745004|257733005
+generated
+by the sinus|428794004|2095001
+discharges|307488001
+across the area|42798000
+of protection.
+
+In this case,|398241000
+the timing|246512002
+of the arrival
+of the electronic stimulus|258097001|8927009
+will
+serve
+to
+delay
+or
+advance|86005002
+the subsequent pacemaker activation.|255260001|14106009
+
+In this case,|398241000
+the coupling intervals|385673002
+between the manifest ectopic|250255003|298109001
+and
+sinus discharges|428794004|307488001|2095001|307488001
+will
+be
+either
+fixed|102491009|261010008
+or
+variable,|255372005
+depending
+on the cycle length relations|44180009|410668003|125677006
+between the two pacemakers.|420797005|14106009
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+

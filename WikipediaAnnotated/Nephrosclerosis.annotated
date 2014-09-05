@@ -1,0 +1,121 @@
+*
+*Hypertensive nephropathy|38481006
+*
+*
+(
+or
+"hypertensive nephrosclerosis",|14973001
+or
+"Hypertensive renal disease"|38481006
+)
+is
+a medical condition referring to|74188005|260905004|439980006
+damage|37782003
+to the kidney|64033007|17373004|181414000
+due to chronic high blood pressure.|90734009|38341003
+
+It
+should
+be
+distinguished
+from "renovascular hypertension"|123799005
+(I15.0
+)
+,
+which
+is
+a form|246176004
+of secondary hypertension.|31992008
+
+In the kidneys,|64033007|17373004
+as
+a result|394617004
+of _benign arterial hypertension_,|10725009|51114001|10725009|263954005|30807003|38341003
+hyaline
+(pink,|371243003
+amorphous,
+homogeneous material|260769002
+)
+accumulates
+in the wall|224727009
+of small arteries|23081008|337419004
+and
+arterioles,|28225005
+producing
+the thickening|263899003
+of their walls|224727009
+and
+the narrowing|25659002|134223000
+of the lumina ? hyaline arteriolosclerosis.|113342003|17941002|398252006|17941002
+
+Consequent ischemia|103332005|52674009
+will
+produce
+tubular atrophy,|95568003|13331008|13336003|13331008
+interstitial fibrosis,|125565008
+glomerular alterations|68288006|197679002
+(smaller glomeruli|263796003|68288006|255507004|68288006
+with different degrees|263735002|246173007
+of hyalinization -|19010006
+from mild|255604002
+to sclerosis|43846000
+of glomeruli|68288006
+)
+and
+periglomerular fibrosis.|263756000
+
+In advanced stages,|86005002|261612004
+renal failure|42399005
+will
+occur.|272120004
+
+Functional nephrons|40143009|54018001|246464006|54018001
+have
+dilated tubules,|255381004|95568003|255381004|13336003
+often|70232002
+with hyaline casts|17684004|167338002
+in the lumens.|113342003|398252006
+
+Additional complications often|260364009|116223007|70232002
+associated|47429007
+with hypertensive nephropathy|38481006
+include|55919000
+glomerular damage|68288006|37782003|197679002|37782003
+resulting|42752001
+in proteinuria|29738008
+and
+hematuria.|53298000
+
+M
+:
+VAS|273903006
+
+anat(
+a
+:
+h/u/t/a/l,v:h/u/t/a/l/phys/devp/cell/prot|4421005|304383000|362837007|304383000
+
+noco/syva/cong/lyvd/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C2s+n/3/4/5/7/8/9
+
+M
+:
+URI|54150009
+
+anat/phys/devp/cell|4421005|362837007
+
+noco/acba/cong/tumr,
+sysi/epon,
+urte
+
+proc/itvp,
+drug|410942007
+(G4B,
+blte,
+urte
+

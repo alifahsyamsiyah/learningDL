@@ -1,0 +1,107 @@
+*
+*Somatostatinoma|253006001
+*
+*
+is
+a tumor|108369006
+of the delta cells|261003002|4421005
+of the endocrine pancreas|78696007|361339003
+that
+produces
+somatostatin.|49722008
+
+It
+is
+associated|47429007
+with diabetes mellitus|73211009
+and
+abnormal glucose tolerance.|166922008|228432001|166922008|77472006|166922008|71412006
+
+Triad
+of
+:
+Mild diabetes mellitus,|255604002|73211009
+steatorrhoea,|66187002
+gall stones.|266474003|256896000|235919008
+
+also
+associated|47429007
+with hypochlorhydria.|55961006
+
+Commonly
+found|404684003
+in head|69536005|302548004
+of pancreas,|15776009|181277001
+and
+are
+malignant.|21594007
+
+Elevated plasma levels|75540009|419185008|258395000
+of Somatostatin.|49722008
+
+in a normal subject actions|17621005|129264002|258744000|129264002
+of somatostatin|49722008
+include|55919000
+:
+
+This explaining
+how
+abnormally elevated somatostatin|75540009|49722008
+can
+cause|23981006|134198009
+diabetes mellitus,|73211009
+by inhibiting insulin secretion,|61511001|412222002|46242002
+steatorrhoea|66187002
+by inhibiting cholecystokinin|61511001|46225008|61511001|104591007
+and
+secretin,|19205004|104930001
+gall stones|266474003|256896000|235919008
+by inhibiting cholecystokinin|61511001|46225008|61511001|104591007
+which normally
+induce|16404004
+gallbladder myocytes contraction,|482008
+and
+hypochlorhydria|55961006
+caused|23981006|134198009
+by inhibiting gastrin,|61511001|62854002
+which normally
+stimulate
+acid secretion.|34957004|46242002
+
+Somatostatinomas|253006001
+are
+associated|47429007
+with calcium|5540006
+deposits|46595003
+called psammoma bodies.|13062004
+
+Treatment|276239002|416118004
+is
+by chemotherapy|416608005|367336001
+with streptozocin,|404876000
+dacarbazine,|387441003
+doxorubicin|372817009
+or
+by 'watchful waiting'|103705002
+and
+surgical de bulking|83578000|224046004|83578000|223637004
+via whipple
+and
+other resections|74964007|118292001
+of the gastrointestinal organs|410653004
+affected.|247591002|248448006
+
+M
+:
+END|261782000|422117008
+
+anat/phys/devp/horm
+
+noco
+(d/cong/tumr,|876000
+sysi/epon
+
+proc,
+drug|410942007
+(A10/H1/H2/H3/H5
+

@@ -1,0 +1,72 @@
+*
+*Ileitis|52457000
+*
+*
+is
+an inflammation|257552002
+of the ileum,|34516001|181249005
+a portion|260726005
+of the small intestine.|264196002|181250005
+
+*
+*Crohn's ileitis|38106008
+*
+*
+is
+a type|261664005
+of Crohn's disease|34000006
+affecting|247591002|248448006
+the ileum.|34516001|181249005
+
+Ileitis|52457000
+is
+caused|23981006|134198009
+by the bacteria Lawsonia intracellularis.|409822003|370572007
+
+Human inflammatory bowel disease|278412004|24526004
+does
+not
+associate|47429007
+with Lawsonia intracellularis infection.|370572007
+
+>www.ncbi.nlm.nih.gov ? Journal List ? BMC Microbiol ?|433497004|61581006
+v.
+6
+;
+2006
+
+M
+:
+DIG
+
+anat(t,
+g,|258795003
+p/phys/devp/enzy|20304007
+
+noco/cong/tumr,
+sysi/epon
+
+proc,
+drug|410942007
+(A2A/2B/3/4/5/6/7/14/16,|264663000
+blte
+
+Arthritis ? Dermatomyositis ? _soft tissue_|3723001|396230008|181607009|3723001|396229003|181607009
+(Myositis,|26889001
+Synovitis/Tenosynovitis,|416209007|67801009
+Bursitis,|84017003
+Enthesitis,|359643005
+Fasciitis,|36948007
+Capsulitis,|6858004
+Epicondylitis,|73583000
+Tendinitis,|34840004
+Panniculitis|22125009
+
+_female|248152002|224526002
+:
+_ Oophoritis ? Salpingitis ? Endometritis ? Parametritis ? Cervicitis ? Vaginitis ? Vulvitis ? Mastitis|76047005|88157006|78623009|280483007|37610005|30800001|63144007|45198002|76047005|88157006|78623009|280483007|37610005|237091009|63144007|45198002
+
+_male|248153007
+:
+_ Orchitis ? Epididymitis ? Prostatitis ? Balanitis ? Balanoposthitis|197983000|9713002|44882003|46090001
+

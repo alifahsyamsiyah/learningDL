@@ -1,0 +1,894 @@
+![Spherical aberration 3.svg]|34258004|260980007
+(/wiki/File|12953007
+:
+Spherical_aberration_3.svg|34258004|260980007
+)
+Spherical aberration|34258004|260980007
+
+An optical system|49549006|281831001
+with
+*
+*astigmatism|82649003
+*
+*
+is
+one|421379005
+where rays|107315007|82107009
+that
+propagate
+in two perpendicular planes|420797005|131189007|260225008
+have
+different foci.|263735002|87017008
+
+If
+an optical system|49549006|281831001
+with astigmatism|82649003
+is
+used to|394850002
+form|246176004
+an image
+of a cross,
+the vertical|33096000
+and
+horizontal lines|24020000|50009006
+will
+be
+in sharp focus|410707003|87017008|410707003|363702006
+at two different distances.|420797005|263735002|246132006
+
+The term
+comes
+from the Greek ?-|1451003
+(_
+a-_
+)
+meaning "
+without"
+and ??????
+(_stigma_|9097005
+)
+,
+"
+a mark,|46998006
+spot,|23840004
+puncture".[1]|11639007|85921004
+
+There
+are
+two distinct forms|420797005|246176004
+of astigmatism.|82649003
+
+The first|255216001|232714002
+is
+a third-order aberration,|70905002|260980007
+which
+occurs|272120004
+for objects|260787004
+(
+or
+parts|260726005
+of objects|260787004
+)
+away
+from the optical axis.|39342003
+
+This form|246176004
+of aberration|260980007
+occurs|272120004
+even
+when
+the optical system|49549006|281831001
+is
+perfectly symmetrical.|18772005
+
+This
+is
+often|70232002
+referred to|439980006
+as
+a "monochromatic aberration",|79749004|260980007
+because
+it
+occurs|272120004
+even
+for light|56242006|371268001
+of a single wavelength.|125681006|246522008|50607009|246522008
+
+This terminology
+may
+be
+misleading,
+however,
+as
+the _amount_|107651007
+of aberration|260980007
+can
+vary
+strongly
+with wavelength|246522008
+in an optical system.|49549006|281831001
+
+The second form|81170007|246176004|257997001|246176004|288495006|246176004
+of astigmatism|82649003
+occurs|272120004
+when
+the optical system|49549006|281831001
+is
+not symmetric|18772005
+about the optical axis.|39342003
+
+This
+may
+be
+by design
+(
+as
+in the case|398241000
+of a cylindrical lens|45226003|78076003|45226003|181169005
+)
+,
+or
+due to manufacturing error
+in the surfaces|410678000
+of the components|246093002
+or
+misalignment|399898009
+of the components.|246093002
+
+In this case,|398241000
+astigmatism|82649003
+is
+observed even
+for rays|107315007|82107009
+from on-axis object points.|420771004|39976000|260787004|420771004|388282002|260787004|420862001|39976000|260787004|420862001|388282002|260787004
+
+This form|246176004
+of astigmatism|82649003
+is
+extremely important
+in vision science|281004000
+and
+eye care,|225363004
+since
+the human eye often|278412004|81745001|70232002|278412004|244486005|70232002
+exhibits
+this aberration|260980007
+due to imperfections
+in the shape|107644003|246176004|300842002
+of the cornea|28726007|181162001
+or
+the lens.|78076003|181169005
+
+In the analysis|272389005
+of this form|246176004
+of astigmatism,|82649003
+it
+is
+most common to|4757001|72906007
+consider
+rays|107315007|82107009
+from a given point
+on the object,|260787004
+which
+propagate
+in two special planes.|420797005|67995009|260225008
+
+The first plane|255216001|260225008|232714002|260225008
+is
+the _tangential plane_.|74396008|260225008
+
+This
+is
+the plane|260225008
+which
+includes|55919000
+both
+the object point|260787004
+being
+considered
+and
+the axis|39976000|388282002
+of symmetry.|18772005
+
+Rays|107315007|82107009
+that
+propagate
+in this plane|260225008
+are
+called
+tangential rays.|74396008|107315007|74396008|82107009
+
+Planes|260225008
+that
+include|55919000
+the optical axis|39342003
+are
+_meridional_ planes.|260225008
+
+It
+is
+common to|72906007
+simplify
+problems|55607006
+in radially-symmetric optical systems|18772005|49549006|18772005|281831001
+by choosing object points|260787004
+in the vertical|33096000
+("
+*
+*y
+*
+*"
+)
+plane only.|260225008
+
+This plane|260225008
+is
+then sometimes
+referred|439980006
+to
+as
+_
+the_ meridional plane.|260225008
+
+The second special plane|81170007|67995009|260225008|257997001|67995009|260225008|288495006|67995009|260225008
+is
+the _sagittal plane_.
+
+This
+is
+defined
+as the plane,|260225008
+orthogonal
+to the tangential plane,|74396008|260225008
+which
+contains|42504009
+the object point|260787004
+being
+considered
+and
+intersects
+the optical axis|39342003
+at the entrance pupil|89103007|392406005|89103007|35146001
+of the optical system.|49549006|281831001
+
+This plane|260225008
+contains|42504009
+the chief ray,|107315007|82107009
+but
+does
+not
+contain|42504009
+the optic axis.|39342003
+
+It
+is
+therefore
+a _skew_ plane,|260225008
+in other words|74964007|255373000
+not
+a meridional plane.|260225008
+
+Rays|107315007|82107009
+propagating
+in this plane|260225008
+are
+called
+sagittal rays.|30730003|107315007|30730003|82107009
+
+In third-order astigmatism,|70905002|82649003
+the sagittal|30730003
+and
+transverse rays|62824007|107315007|62824007|82107009|243899009|107315007|243899009|82107009
+form|246176004
+foci|87017008
+at different distances|263735002|246132006
+along the optic axis.|39342003
+
+These foci|87017008
+are
+called
+the _sagittal focus_|30730003|87017008|30730003|363702006
+and
+the _transverse focus_,|62824007|87017008|62824007|363702006|243899009|87017008|243899009|363702006
+respectively.
+
+In the presence|386397008
+of astigmatism,|82649003
+an
+off-axis point|39976000|388282002
+on the object|260787004
+is
+not sharply
+imaged|363679005|278395004
+by the optical system.|49549006|281831001
+
+Instead,
+sharp _lines_|410707003|50009006
+are
+formed|35810008
+at the sagittal|30730003
+and
+transverse foci.|62824007|87017008|243899009|87017008
+
+The image
+at the transverse focus|62824007|87017008|62824007|363702006|243899009|87017008|243899009|363702006
+is
+a short line,|359530003|50009006|367450005|50009006
+oriented|311552005
+in the direction|260672003
+of the _sagittal_ plane
+;
+images
+of circles|354652004
+centered|26216008
+on the optic axis,|39342003
+or
+lines|50009006
+tangential|74396008
+to such circles,|354652004
+will
+be
+sharp|410707003
+in this plane.|260225008
+
+The image
+at the sagittal focus|30730003|87017008|30730003|363702006
+is
+a short line,|359530003|50009006|367450005|50009006
+oriented|311552005
+in the _tangential_ direction|74396008|260672003
+;
+images
+of spokes
+radiating|8754004
+from the center|26216008
+are
+sharp|410707003
+at this focus.|87017008|363702006
+
+In
+between these two foci,|420797005|87017008
+a round|42700002
+but
+"blurry" image
+is
+formed.|35810008
+
+This
+is
+called
+the _medial focus_|255561001|87017008|255561001|363702006
+or
+_circle|354652004
+of least confusion_.|276139006|286933003|263796003|286933003
+
+This plane often|260225008|70232002
+represents
+the best compromise image location|246267002
+in a system|246333005
+with astigmatism.|82649003
+
+The amount|107651007
+of aberration|260980007
+due to astigmatism|82649003
+is
+proportional|8212001
+to the square|56924007
+of the angle|1483009
+between the rays|107315007|82107009
+from the object|260787004
+and
+the optical axis|39342003
+of the system.|246333005
+
+With care,
+an optical system|49549006|281831001
+can
+be
+designed
+to
+reduce|260400001
+or
+eliminate
+astigmatism.|82649003
+
+Such systems|246333005
+are
+called
+anastigmats.
+
+If
+an optical system|49549006|281831001
+is
+not axisymmetric,
+either
+due to an error
+in the shape|107644003|246176004|300842002
+of the optical surfaces|281004000|410678000
+or
+due to misalignment|399898009
+of the components,|246093002
+astigmatism|82649003
+can
+occur|272120004
+even
+for on-axis object points.|420771004|39976000|260787004|420771004|388282002|260787004|420862001|39976000|260787004|420862001|388282002|260787004
+
+This effect|253861007
+is
+often|70232002
+used deliberately|394850002
+in complex optical systems,|103360007|49549006|103360007|281831001
+especially certain types|17162000|261664005|255544004|261664005
+of telescope.|277981005
+
+In the analysis|272389005
+of these systems,|246333005
+it
+is
+common to|72906007
+consider
+tangential rays|74396008|107315007|74396008|82107009
+(
+as
+defined
+above
+)
+,
+and
+rays|107315007|82107009
+in a meridional plane|260225008
+(
+a plane|260225008
+containing|42504009
+the optic axis|39342003
+)
+perpendicular|131189007
+to the tangential plane.|74396008|260225008
+
+This plane|260225008
+is
+called
+either
+the _sagittal meridional plane_
+or
+,
+confusingly,
+just
+the _sagittal plane_.
+
+In optometry
+and
+ophthalmology,|394594003
+the vertical|33096000
+and
+horizontal planes|243899009
+are
+identified|7882003
+as
+_tangential_|74396008
+and
+_sagittal_ meridians,|30730003
+respectively.
+
+Ophthalmic astigmatism|82649003
+is
+a refraction error|39021009
+of the eye|81745001|244486005
+in which there
+is
+a difference|263735002
+in degree|258395000|246173007
+of refraction|366060000|252886007
+in different meridians.|263735002
+
+It
+is
+typically
+characterized
+by an aspherical, non-figure
+of revolution cornea|257875004|28726007|257875004|181162001
+in which
+the corneal profile slope|28726007
+and
+refractive power|251718005
+in one meridian|421379005
+is
+less
+than that
+of the perpendicular axis.|131189007
+
+Astigmatism|82649003
+causes|134198009
+difficulties|371157007
+in seeing fine detail.|281004000|3082000
+
+Astigmatism|82649003
+can
+be
+often|70232002
+corrected|370975003
+by glasses|50121007
+with a lens|78076003|181169005
+that
+has
+different radii|263735002|62413002|263735002|181940002|263735002|131190003
+of curvature
+in different planes|263735002|260225008
+(
+a _cylindrical_ lens|45226003|78076003|45226003|181169005
+)
+,
+contact lenses,|57368009
+or
+refractive surgery.[3]|373391005|420708009
+
+Astigmatism|82649003
+is
+quite common.|72906007
+
+Studies|110465008|224699009
+have
+shown
+that
+about one|421379005
+in three people|421291004|125676002
+suffers
+from it.
+
+The prevalence
+of astigmatism|82649003
+increases|260366006
+with age.|424144002
+
+Although
+a person|125676002
+may
+not
+notice
+mild astigmatism,|255604002|82649003
+higher amounts|75540009|107651007|371879000|107651007
+of astigmatism|82649003
+may
+cause|23981006|134198009
+blurry vision,|246636008
+squinting|22066006
+,
+asthenopia,|70323002
+fatigue,|84229001
+or
+headaches.[8][9][10]|25064002
+
+There
+are
+a number of tests|410680006|269814003|410680006|272393004|410681005|269814003|410681005|272393004
+that
+are
+used|394850002
+by ophthalmologists|422234006
+and
+optometrists|28229004
+during eye examinations to|36228007
+determine
+the presence|386397008
+of astigmatism|82649003
+and
+to
+quantify
+the amount|107651007
+and
+axis|39976000|388282002
+of the astigmatism.|82649003
+
+A Snellen chart|400913005
+or
+other eye chart|74964007|81745001|74964007|244486005
+may
+initially|884001
+reveal|263857004
+reduced visual acuity.|13164000
+
+A keratometer|420564007
+may
+be
+used|394850002
+to
+measure|246445000|272391002
+the curvature
+of the steepest
+and
+flattest meridians|6041008|257564005
+in the cornea's front surface.|314853007|255549009
+
+Corneal topography|252830007
+may
+also
+be
+used|394850002
+to
+obtain|398092000
+a more accurate representation|242762006|263656005
+of the cornea's shape.|421864009
+
+An autorefractor|397250001
+or
+retinoscopy|397524001
+may
+provide
+an objective estimate|410518001|414135002|260224007|414135002
+of the eye's refractive error|81745001|39021009|244486005|39021009
+and
+the use|277889008|419385000
+of Jackson cross cylinders|421600000
+in a phoropter|397248009
+may
+be
+used|394850002
+to subjectively
+refine
+those measurements.|272391002
+
+An alternative technique|272394005
+with the phoropter|397248009
+requires
+the use|277889008|419385000
+of a "clock
+dial"|89422005
+or
+"sunburst"
+chart
+to
+determine
+the astigmatic axis|82649003|39976000|82649003|388282002
+and
+power.[17][18]|33300005
+
+Astigmatism|82649003
+may
+be
+corrected|370975003
+with eyeglasses,|50121007
+contact lenses,|57368009
+or
+refractive surgery.|373391005|420708009
+
+The planning|312011006|397943006
+and
+analysis|272389005
+of astigmatism treatment|82649003|276239002|82649003|416118004
+in corneal, cataract,|28726007|247053007
+and
+refractive surgery|373391005|420708009
+has
+been
+outlined
+by the American National Standards
+Institute|385437003
+,
+and
+was
+originally
+described
+by Australian ophthalmologist [Noel A.|422234006
+
+Alpins]
+(/wiki/Noel_A._Alpins
+)
+in his Alpins method|260686004|272394005
+of astigmatism analysis.|82649003|272389005
+
+Various considerations|256220008
+involving|248448006
+ocular health,|81745001|263775005|281004000|263775005|263775005
+refractive status,|263490005
+and
+lifestyle frequently|60134006|70232002
+determine
+whether one option|421379005
+may
+be
+better|3442003
+than another.
+
+In those with keratoconus,|20401003|65636009|421463005|65636009
+toric contact lenses often|57368009|70232002
+enable|225791005
+patients to|116154003
+achieve
+better visual acuities|3442003|363983007
+than eyeglasses.|50121007
+
+If
+the astigmatism|82649003
+is
+caused|23981006|134198009
+by a problem|55607006
+such as deformation
+of the eyeball|81745001
+due to a chalazion,|1482004
+treating|28995006
+the underlying cause|134198009
+will
+resolve
+the astigmatism.|82649003
+
+Grinding|15537006
+and
+polishing
+of precision optical parts,|281004000|260726005
+either
+by hand|85562004|302539009
+or
+machine,|61284002
+typically
+employs|224363007
+significant downward pressure,|386134007|255518004|279046003|386134007|255518004|13543005|386134007|255518004|257893003
+which in turn|282987006
+creates
+significant frictional side|386134007|263762005|182353008|386134007|229494005|182353008
+pressures|279046003|13543005
+during polishing
+strokes|230690007
+that
+can
+combine|20909006
+to locally flex
+and
+distort
+the parts.|260726005
+
+These distortions generally|20967005
+do
+not
+possess
+figure-
+of-revolution symmetry|257875004|18772005
+and
+are
+thus astigmatic,|82649003
+and
+slowly|419443000
+become
+permanently
+polished|286107005
+into the surface|410678000
+if
+the problems|55607006
+causing|23981006
+the distortion|20967005
+are
+not
+corrected.|370975003
+
+Astigmatic, distorted|82649003
+surfaces|410678000
+potentially
+introduce|127487003
+serious degradations|42745003|40091007
+in optical system performance.|49549006|281831001
+
+Surface distortion|410678000|20967005
+due to grinding|15537006
+or
+polishing increases|286107005|260366006
+with the aspect ratio|118586006
+of the part|260726005
+(diameter|81827009
+to thickness ratio|246703001|118586006
+).
+
+To a first order,|255216001|232714002
+glass strength|32039001|260404005
+increases|260366006
+as the cube|81012005|182101009
+of the thickness.|246703001
+
+Thick lenses|246703001|78076003|246703001|181169005
+at 4|260308009
+:
+1
+to 6
+:
+1 aspect ratios|260305007|118586006
+will
+flex|9964006
+much less|242762006|4757001
+than high aspect ratio parts,|75540009|118586006|260726005|371879000|118586006|260726005
+such as optical windows,|281004000|224755008
+which
+can
+have
+aspect ratios|118586006
+of 15
+:
+1
+or
+higher.|75540009|371879000
+
+The combination|89780004
+of surface|410678000
+or
+wavefront error precision requirements
+and
+part aspect ratio|260726005|118586006
+drives|247750002
+the degree|258395000|246173007
+of
+back support uniformity|9096001|272146000|243114000|272146000
+required
+,
+especially
+during the higher|75540009|371879000
+down pressures|279046003|13543005
+and
+side|182353008
+forces
+during polishing.
+
+Optical working typically|281004000|261041009
+involves|248448006
+a degree|258395000|246173007
+of randomness|255226008
+that
+helps
+greatly
+in preserving figure-|277405005
+of-revolution surfaces,|257875004|410678000
+provided
+the part|260726005
+is
+not
+flexing|9964006
+during the grind/polish process.|15537006|286107005|415178003
+
+Compact disc players
+use|277889008|419385000
+an astigmatic lens|82649003|78076003|82649003|181169005
+for focusing.|251776000
+
+When
+one axis|421379005|39976000|421379005|388282002
+is
+more in focus|242762006|87017008|242762006|363702006
+than the other, dot-|74964007|420987007
+like features
+on the disc project
+to oval shapes.|107644003
+
+The orientation|43173001|311552005
+of the oval
+indicates|410535002
+which axis|39976000|388282002
+is
+more in focus,|242762006|87017008|242762006|363702006
+and
+thus
+which direction|260672003
+the lens|78076003|181169005
+needs|410525008|103325001
+to
+move.|302000008|384598002|370125004
+
+A square arrangement|56924007|103377007
+of only four sensors|50607009|421534005|408746007|420295001|421534005|408746007
+can
+observe
+this bias
+and
+use|277889008|419385000
+it to
+bring|68369002
+the read lens|50360004|78076003|50360004|181169005
+to best focus,|87017008|363702006
+without
+being
+fooled
+by oblong pits|79261008
+or
+other features|74964007
+on the disc surface.|410678000
+
+Some telescopes|277981005
+use|277889008|419385000
+deliberately astigmatic optics.[19]|82649003|81745001
+

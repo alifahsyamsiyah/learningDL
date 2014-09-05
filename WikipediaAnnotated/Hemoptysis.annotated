@@ -1,0 +1,263 @@
+*
+*Hemoptysis|66857006
+*
+*
+or
+*
+*haemoptysis|66857006
+*
+*
+(!
+play|300776002
+/h??m?pt?s?s/ is
+the expectoration|45710003
+(coughing|272039006
+up
+)
+of blood|87612001|119273009
+or
+of blood-stained sputum|66857006|397165007|66857006|127790008|61281005|397165007|61281005|127790008
+from the bronchi,|955009
+larynx,|261115001|181212004
+trachea,|44567001|181213009
+or
+lungs|39607008
+(
+e.g.
+,
+in tuberculosis|371569005
+or
+other respiratory infections|74964007|275498002
+or
+cardiovascular pathologies|113257007|394595002
+).
+
+There
+are
+many conditions|260396001|260905004
+involving|248448006
+Hemoptysis,|66857006
+including|55919000
+but
+not
+limited|255469002
+to bronchitis|32398004
+and
+pneumonia most commonly,|205237003
+but
+also lung neoplasm|126713003
+(
+in smokers,|77176002
+hemoptysis|66857006
+is
+often persistent|70232002
+)
+,
+aspergilloma,|10446001
+tuberculosis,|371569005
+bronchiectasis,|12295008
+coccidioidomycosis,|442543009
+pulmonary embolism,|59282003
+pneumonic plague,|38976008
+and
+Cystic Fibrosis.|190905008
+
+Rarer causes|84638005|134198009|103356009|134198009
+include|55919000
+hereditary hemorrhagic telangiectasia|21877004
+(HHT
+or
+Rendu-Osler-Weber syndrome|21877004
+)
+,
+or
+Goodpasture's syndrome|50581000
+and
+Wegener's granulomatosis.|239934006
+
+In children,|410601007|160499008
+hemoptysis|66857006
+is
+commonly
+caused|23981006|134198009
+by the presence|386397008
+of a foreign body|125670008
+in the respiratory tract.|20139000|321667001|361110005
+
+The condition|260905004
+can
+also
+result|394617004
+from over-anticoagulation|21481007|372862008
+from treatment|276239002|416118004
+by drugs|410942007
+such as warfarin.|372756006
+
+Blood-laced mucus|87612001|228270000|49909006|119273009|228270000|49909006
+from the sinus|428794004|2095001
+or
+nose area|260540009|42798000|181195007|42798000
+can
+sometimes
+be
+misidentified
+as symptomatic|264931009
+of hemoptysis|66857006
+(
+such secretions|46242002
+can
+be
+a sign|72670004
+of nasal|260540009
+or
+sinus cancer,|428794004|363346000|428794004|372087000|2095001|363346000|2095001|372087000
+but
+also
+a sinus infection.|36971009
+
+Extensive non-respiratory injury|41118005|127275008
+can
+also
+cause|23981006|134198009
+one to|421379005
+cough|272039006
+up blood.|87612001|119273009
+
+Cardiac causes|80891009|134198009
+like congestive heart failure|42343007
+and
+mitral stenosis|79619009|86466006
+should
+be
+ruled|10828004
+out.|255529000
+
+The origin|255395001
+of blood|87612001|119273009
+can
+be
+identified|7882003
+by observing
+its color.|263714004
+
+Bright-red,|386717005
+foamy blood|421166008|87612001|421166008|119273009
+comes
+from the respiratory tract,|20139000|321667001|361110005
+whereas
+dark-red,|255419005|386713009|255419005|371240000
+coffee-colored blood|29263009|103366001|87612001|29263009|103366001|119273009
+comes
+from the gastrointestinal tract.|122865005|279972009
+
+Sometimes hemoptysis|66857006
+may
+be
+rust|106563001|405715007
+-
+colored.|103366001
+
+Treatment|276239002|416118004
+depends
+largely
+upon the underlying cause.|134198009
+
+Many modalities|260396001
+of treatment|276239002|416118004
+can
+be
+used|394850002
+,
+like,
+iced saline,|896008|373757009|229871004|373757009
+or
+topical vasoconstrictors,|372881000|359540000|372881000
+such as adrenalin|387362001
+or
+vasopressin|421078009|71338005
+can
+be
+used.|394850002
+
+Selective bronchial intubation|232687005
+can
+be
+used|394850002
+to
+collapse|27942005|16277007|271787007
+lung|39607008|181216001
+in which
+the hemorrhage|131148009
+is
+occurring|272120004
+,
+also endobronchial tamponade|260544000|71173004|260544000|257933004
+can
+be
+used.|394850002
+
+Laser photocoagulation
+can
+be
+used|394850002
+to
+stop|422117008
+bleeding|131148009
+during bronchoscopy.|10847001
+
+Angiography|77343006
+of bronchial arteries|64468002
+can
+be
+performed|398166005
+to
+locate
+the bleeding,|131148009
+and
+it
+can
+often|70232002
+be
+embolized.
+
+Surgical option|83578000
+is
+usually
+the last resort,
+and
+can
+involve|248448006
+,
+lobectomy|125571002
+or
+pneumonectomy.|49795001
+
+Non?
+Small-Cell Lung Cancer|254632001
+can
+also
+be
+treated|28995006
+with Erlotinib|414123001
+or
+Gefitinib[13]|407100002
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+

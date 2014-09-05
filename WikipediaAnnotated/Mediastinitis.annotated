@@ -1,0 +1,206 @@
+*
+*Mediastinitis|47597000
+*
+*
+is
+inflammation|257552002
+of the tissues|85756007
+in the mid-chest,|255562008|261179002
+or
+mediastinum.|264099006|94931004|181217005
+
+It
+can
+be
+either
+acute|272118002
+or
+chronic.|90734009
+
+Acute mediastinitis|233734006
+is
+usually bacterial|409822003
+and
+due to rupture|415747007
+of organs|410653004
+in the mediastinum.|264099006|94931004|181217005
+
+As the infection
+can
+progress|385651009
+rapidly,|418694008
+this
+is
+considered
+a serious condition.|42745003|260905004
+
+Chronic sclerosing|90734009|43846000
+(
+or
+fibrosing mediastinitis,|263756000|47597000
+while
+potentially serious,|42745003
+is
+caused|23981006|134198009
+by a long-standing inflammation|255511005|10904000|257552002
+of the mediastinum,|264099006|94931004|181217005
+leading|236874000
+to growth
+of acellular collagen|61472002
+and
+fibrous tissue|34433006
+within the chest|261179002
+and
+around the central vessels|26216008|59820001
+and
+airways.|43725001|89187006
+
+It
+has
+a different cause,|263735002|134198009
+treatment,|276239002|416118004
+and
+prognosis|20481000
+than acute infectious mediastinitis.|272118002|312157006
+
+Before the development|278923009
+of modern cardiovascular surgery,|112802009
+cases|398241000|413769002
+of acute mediastinitis usually|233734006
+arose|68727004
+from
+either
+perforation|263837003
+of the esophagus|32849002|181245004
+or
+from contiguous|65424008
+spread|410677005
+of odontogenic
+or
+retropharyngeal infections.
+
+However,
+in modern practice,
+most cases|398241000|413769002
+of acute mediastinitis result|233734006|394617004
+from complications|116223007
+of cardiovascular|113257007
+or
+endoscopic surgical procedures.|85876005
+
+Treatment usually|276239002|416118004
+involves|248448006
+aggressive intravenous antibiotic therapy|61372001|281790008|281790008
+and
+hydration.|405006006
+
+If discrete fluid collections|32457005|33463005|255765007
+(
+such as abscesses|128477000
+)
+or
+grossly infected tissue|85756007
+have
+formed|35810008
+,
+they
+may
+have
+to
+be
+surgically|83578000
+drained|32712000
+or
+debrided.
+
+Chronic mediastinitis|90734009|47597000
+is
+usually
+a radiologic diagnosis|394914008|439401001|394914008|5526005|439401001|5526005
+manifested|250255003|249319006
+by diffuse fibrosis|125564007
+of the soft tissues|181607009
+of the mediastinum.|264099006|94931004|181217005
+
+This
+is
+sometimes
+the consequence|103332005
+of prior granulomatous disease,|236874000|128561003
+most commonly histoplasmosis.|12962009
+
+Other identifiable causes|74964007|7882003|134198009
+include|55919000
+tuberculosis|371569005
+and
+radiation therapy.|108290001
+
+Fibrosing|263756000
+mediastinitis most frequently|47597000|70232002
+causes|134198009
+problems|55607006
+by constricting blood vessels|410719006|59820001
+or
+airways|43725001|89187006
+in the mediastinum.|264099006|94931004|181217005
+
+This
+may
+result|394617004
+in such complications|116223007
+as superior vena cava syndrome|63363004
+or
+pulmonary edema|19242006
+from compression|71173004|263720003
+of pulmonary veins.|122972007
+
+Treatment|276239002|416118004
+for chronic fibrosing mediastinitis|90734009|263756000|47597000
+is
+somewhat controversial,
+and
+may
+include|55919000
+steroids|116566001
+or
+surgical decompression|410803008
+of affected vessels.|247591002|59820001|248448006|59820001
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+
+Arthritis ? Dermatomyositis ? _soft tissue_|3723001|396230008|181607009|3723001|396229003|181607009
+(Myositis,|26889001
+Synovitis/Tenosynovitis,|416209007|67801009
+Bursitis,|84017003
+Enthesitis,|359643005
+Fasciitis,|36948007
+Capsulitis,|6858004
+Epicondylitis,|73583000
+Tendinitis,|34840004
+Panniculitis|22125009
+
+_female|248152002|224526002
+:
+_ Oophoritis ? Salpingitis ? Endometritis ? Parametritis ? Cervicitis ? Vaginitis ? Vulvitis ? Mastitis|76047005|88157006|78623009|280483007|37610005|30800001|63144007|45198002|76047005|88157006|78623009|280483007|37610005|237091009|63144007|45198002
+
+_male|248153007
+:
+_ Orchitis ? Epididymitis ? Prostatitis ? Balanitis ? Balanoposthitis|197983000|9713002|44882003|46090001
+

@@ -1,0 +1,99 @@
+*
+*Vulvitis|63144007
+*
+*
+is
+a condition|260905004
+of inflammation|257552002
+of the vulva|45292006|265796001
+of a female.|248152002|224526002
+
+Vulvitis|63144007
+is
+inflammation|257552002
+of the external genital organs|261074009|263767004|261074009|128181006
+of the female|248152002|224526002
+(
+the vulva|45292006|265796001
+).
+
+The vulva|45292006|265796001
+includes|55919000
+the labia,|39117004
+clitoris,|65439009|181442003
+and
+entrance|89103007
+to the vagina|76784001|181441005
+(
+the vestibule|279732009|181188003
+of the vagina|76784001|181441005
+).
+
+An inflammation|257552002
+of the vulva|45292006|265796001
+is
+referred to|439980006
+as
+vulvitis.|63144007
+
+Vulvitis,|63144007
+like vaginitis,|30800001|237091009
+may
+be
+caused|23981006|134198009
+by a number|410680006|410681005
+of different infections.|263735002
+
+Because
+the vulva|45292006|265796001
+is
+also often|70232002
+inflamed
+when
+there
+is
+inflammation|257552002
+of the vagina,|76784001|181441005
+vaginitis|30800001|237091009
+is
+sometimes
+referred|439980006
+to
+as
+vulvovaginitis.|53277000
+
+M
+: ? FRS|387475002
+
+anat/phys/devp
+
+noco/cong/npls,|223602002
+sysi/epon
+
+proc/asst,
+drug|410942007
+(G1/G2B/G3CD
+
+Arthritis ? Dermatomyositis ? _soft tissue_|3723001|396230008|181607009|3723001|396229003|181607009
+(Myositis,|26889001
+Synovitis/Tenosynovitis,|416209007|67801009
+Bursitis,|84017003
+Enthesitis,|359643005
+Fasciitis,|36948007
+Capsulitis,|6858004
+Epicondylitis,|73583000
+Tendinitis,|34840004
+Panniculitis|22125009
+
+_female|248152002|224526002
+:
+_ Oophoritis ? Salpingitis ? Endometritis ? Parametritis ? Cervicitis ? Vaginitis ?|76047005|88157006|78623009|280483007|37610005|30800001|76047005|88157006|78623009|280483007|37610005|237091009
+*
+*Vulvitis|63144007
+*
+* ? Mastitis|45198002
+
+_male|248153007
+:
+_ Orchitis ? Epididymitis ? Prostatitis ? Balanitis ? Balanoposthitis|197983000|9713002|44882003|46090001
+

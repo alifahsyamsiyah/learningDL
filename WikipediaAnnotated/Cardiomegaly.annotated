@@ -1,0 +1,40 @@
+*
+*Cardiomegaly|8186001
+*
+*
+is
+a medical condition|74188005|260905004
+wherein
+the heart|80891009|302509004
+is
+enlarged.|260376009|118452000
+
+Cardiac dilation|80891009|25322007|80891009|71025006|80891009|363105001
+is
+where mainly one|421379005
+or
+more cardiac chambers|242762006|264044002
+is
+enlarged,|260376009|118452000
+while
+cardiac hypertrophy
+is
+where mainly cardiac muscle|74281007
+is
+enlarged.|260376009|118452000
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+

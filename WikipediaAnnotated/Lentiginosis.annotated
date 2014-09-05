@@ -1,0 +1,127 @@
+*
+*Lentiginosis|398744007
+*
+* refers|439980006
+to the presence|386397008
+of lentigines|398744007
+in large numbers|255509001|410680006|255509001|410681005
+or
+in a distinctive configuration[1].|103377007
+
+These
+are
+spotted|271807003|64996003|9126005|23840004|285305004
+areas|42798000
+created
+by accumulation
+on the skin|119325001|39937001|181469002
+due to sun exposure.|49926000|71677004|49926000|24932003
+
+Due to a high irregularity|75540009|49608001|371879000|49608001
+any distinction
+from randomness|255226008
+defines
+lentiginosis.|398744007
+
+Although
+lentigines|398744007
+are
+benign,|30807003
+they
+be
+the signal
+of an underlying problem|55607006
+such as progressive cardiomyopathic lentiginosis|45167004
+which
+can
+cause|23981006|134198009
+retardation
+in children.[2]|410601007|160499008
+
+Nevus|21119008
+of Ito/Nevus|48543002
+of Ota ? Compound nevus ? Spitz nevus|414929001|62105006|254811006
+(Pigmented spindle cell nevus ? Halo nevus ? Junctional nevus ? Pseudomelanoma|254812004|398028009|254802006
+
+Blue nevus|254806009
+(Blue nevus|254806009
+of Jadassohn?Ti?che,|223642007
+Cellular blue nevus,|254808005
+Epithelioid blue nevus,|254806009
+Deep penetrating nevus,|131197000|53568006|131197000|53568006|21119008|131197000|53568006
+Amelanotic blue nevus,|254806009
+Malignant blue nevus|307603002
+
+Congenital melanocytic nevus|398943008
+(Giant pigmented nevus,|254815002
+Medium-sized congenital nevocytic nevus,|255508009|277049003|6160004|255508009|277049003|6160004|21119008|255508009|277049003|6160004|255508009|277049003|255399007|255508009|277049003|255399007|21119008|255508009|277049003|255399007
+Small-sized congenital nevocytic nevus|128881008|277049003
+
+Balloon cell nevus ? Dysplastic nevus/Dysplastic nevus syndrome|8276007|254819008
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+
+_vitiligo|56727007
+:
+_ Quadrichrome vitiligo ? Vitiligo ponctu?|56727007
+? _syndromic_
+(Alezzandrini syndrome ? Vogt?|403275004
+Koyanagi?Harada syndrome|193497004
+
+_albinism|15890002
+:
+_ Oculocutaneous albinism ? Ocular albinism|63844009|26399002
+
+_melanosome transfer|302265009
+:
+_ Hermansky?Pudlak syndrome ? Ch?diak?|9311003|225725005
+Higashi syndrome ? Griscelli syndrome
+(Elejalde syndrome ? Griscelli syndrome type 2 ? Griscelli syndrome type 3|258199000
+
+Lentigo/|398744007
+*
+*Lentiginosis|398744007
+*
+*
+:
+Lentigo simplex ? Liver spot ? Centrofacial lentiginosis ? Generalized lentiginosis ?|398900000|72100002|18822004|60132005
+Inherited|255404009
+patterned lentiginosis|272135003|398744007
+in black persons ? Ink spot lentigo ? Lentigo maligna ? Mucosal lentigines ? Partial unilateral lentiginosis ? PUVA lentigines|315240009|125676002|46384008|23840004|302836005|239134005|255609007|66459002|315240009|125676002|46384008|23840004|302836005|313268005|255609007|239131002|413464008|125676002|46384008|23840004|302836005|239134005|255609007|66459002|413464008|125676002|46384008|23840004|302836005|313268005|255609007|239131002|15086000|125676002|46384008|23840004|302836005|239134005|255609007|66459002|15086000|125676002|46384008|23840004|302836005|313268005|255609007|239131002|371252007|125676002|46384008|23840004|302836005|239134005|255609007|66459002|371252007|125676002|46384008|23840004|302836005|313268005|255609007|239131002
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+

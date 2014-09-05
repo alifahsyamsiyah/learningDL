@@ -1,0 +1,145 @@
+*
+*Erythrasma|238418005
+*
+*
+is
+a skin disease|95320005
+that
+causes|134198009
+brown,|371254008
+scaly skin patches.|271761007|36875001
+
+It
+is
+caused|23981006|134198009
+by the Gram-positive bacterium _Corynebacterium minutissimum_.|8745002|83594007
+
+It
+is
+prevalent
+among diabetics
+and
+the obese,|414915002
+and
+in warm climates
+;
+it
+is
+worsened|390772001|231877006
+by wearing occlusive clothing.|263823007|272180002
+
+The patches|36875001
+of erythrasma|238418005
+are
+initially pink,|884001|371243003
+but
+progress|385651009
+quickly to
+become
+brown|371254008
+and
+scaly|19892000|13389002|278111002
+(
+as skin|119325001|39937001|181469002
+starts|255395001|385652002
+to
+shed
+)
+,
+which
+are
+classically sharply
+demarcated.
+
+Erythrasmic patches|36875001
+are
+typically
+found|404684003
+in intertriginous areas|48031009|42798000
+(skin fold areas - e.g.|119325001|26310004|42798000|258795003|39937001|26310004|42798000|258795003|181469002|26310004|42798000|258795003
+
+armpit,|422543003|361288001
+groin,|255575008
+under breast|76752008|181131000
+)
+-
+with the toe web-spaces|14162009|32113001|205144002
+being
+most commonly|4757001
+involved.|248448006
+
+The patient|116154003
+is
+commonly otherwise asymptomatic.|84387000
+
+The diagnosis|439401001
+can
+be
+made
+on the clinical picture|58147004|257444003|58147004|257445002
+alone.|105529008
+
+However,
+a simple side-room investigation|13673007|225744003|386053000
+with a Wood's lamp|14402002|34160005
+is
+additionally useful
+in diagnosing erythrasma.|439401001|238418005
+
+The ultraviolet light|41355003
+of a Wood's lamp|14402002|34160005
+causes|134198009
+the organism to|410653004
+fluoresce
+a coral red color,|386713009|371240000
+differentiating|263933003
+it
+from fungal infections|3218000
+and
+other skin conditions.|74964007|95320005
+
+Erythrasma|238418005
+is
+treated|28995006
+with topical fusidic acid,|387530003|359540000|387530003
+topical imidazoles|35098001|359540000|35098001
+or
+systemic macrolides|31099001|105908007|31099001|428787002
+(erythromycin|372694001
+or
+azithromycin.|387531004
+
+M
+:
+BAC
+
+bact (clas|115255002|258391009
+
+gr+f/gr+a(t/gr-p(c/gr-o
+
+drug|410942007
+(J1p,
+w,
+n,|258310009
+m,
+vacc
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+

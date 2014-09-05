@@ -1,0 +1,85 @@
+*
+*Anasarca|442433009
+*
+*,
+or
+extreme generalized edema,|12565001|442433009
+is
+a medical condition|74188005|260905004
+characterised
+by widespread swelling|85333001|423666004|85333001|442672001
+of the skin|119325001|39937001|181469002
+due to effusion|41699000|430869004
+of fluid|32457005|33463005|255765007
+into the extracellular space.[1]|16247001
+
+It
+is
+usually
+caused|23981006|134198009
+by liver failure|59927004
+(cirrhosis|19943007
+of the liver|10200004|181268008
+)
+or
+renal failure/disease|90708001|76797004|42399005|64572001
+and
+severe malnutrition/protein deficiency.|88878007|260372006|88878007|248325000
+
+The increase|260366006
+in salt|387390002
+and
+water retention|11713004|36850000|119318008|36850000
+caused|23981006|134198009
+by low cardiac output|86318000
+can
+also
+result|394617004
+in anasarca|442433009
+as a long term maladaptive response.
+
+It
+can
+also
+be
+created
+from the administration|413454004|416118004
+of exogenous intravenous fluid.|261074009|118431008|51352008|118431008
+
+Certain plant-derived anticancer chemotherapeutic agents,|17162000|31006001|372688009|17162000|31006001|312059006
+such as docetaxel,|386918005
+cause anasarca|134198009|442433009
+through a poorly understood capillary leak syndrome.[2]|556001|66216009|87730004
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+
+M
+:
+SKA
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon
+
+proc,
+drug|410942007
+(D10
+

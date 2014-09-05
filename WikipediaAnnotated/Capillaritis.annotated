@@ -1,0 +1,57 @@
+*
+*Capillaritis|85461008
+*
+* refers to|439980006
+state|398070004
+where the capillaries|20982000
+are
+inflamed.[1]
+
+It
+may
+occur|272120004
+in the lungs|39607008
+as pulmonary capillaritis,|39607008|85461008|264164005|85461008
+[2]|260306008
+or
+in the skin|119325001|39937001|181469002
+as pigmented purpuric dermatosis.|20343006
+
+Arthritis ? Dermatomyositis ? _soft tissue_|3723001|396230008|181607009|3723001|396229003|181607009
+(Myositis,|26889001
+Synovitis/Tenosynovitis,|416209007|67801009
+Bursitis,|84017003
+Enthesitis,|359643005
+Fasciitis,|36948007
+Capsulitis,|6858004
+Epicondylitis,|73583000
+Tendinitis,|34840004
+Panniculitis|22125009
+
+_female|248152002|224526002
+:
+_ Oophoritis ? Salpingitis ? Endometritis ? Parametritis ? Cervicitis ? Vaginitis ? Vulvitis ? Mastitis|76047005|88157006|78623009|280483007|37610005|30800001|63144007|45198002|76047005|88157006|78623009|280483007|37610005|237091009|63144007|45198002
+
+_male|248153007
+:
+_ Orchitis ? Epididymitis ? Prostatitis ? Balanitis ? Balanoposthitis|197983000|9713002|44882003|46090001
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+

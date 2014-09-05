@@ -1,0 +1,361 @@
+*
+*Loudness|24547000
+*
+*
+is
+the characteristic
+of a sound|68325009
+that
+is
+primarily
+a psychological|60224009
+correlate
+of physical strength|5880005|260404005|19388002|260404005
+(amplitude.
+
+More formally,|242762006
+it
+is
+defined
+as "
+that
+attribute|246061005
+of auditory sensation|255328007|106148006|255328007|271712005|255328007|272144002
+in terms
+of which
+sounds
+can
+be
+ordered
+on a scale extending|19892000|255590007|278111002|255590007
+from quiet|255357006
+to loud."[1]|24547000
+
+Loudness,|24547000
+a subjective measure,|255362007|246445000|255362007|272391002
+is
+often|70232002
+confused|286933003
+with objective measures|410518001|246445000|410518001|367346004|260224007|246445000|260224007|367346004
+of sound strength|260404005|68325009|260404005
+such as sound pressure,|279046003|13543005|257893003|68325009|279046003|68325009|13543005|68325009|257893003
+sound pressure level|250888003|279046003|250888003|13543005|250888003|257893003
+(
+in decibels,|259042002
+sound intensity|103370009|68325009|103370009
+or
+sound power.|33300005|68325009|33300005
+
+Filters|116250002
+such as A-
+weighting|27113001|272102008|39857003
+attempt to
+adjust|410617001
+sound measurements to|359659005
+correspond
+to
+loudness|24547000
+as
+perceived|81742003
+by the typical human.|278412004
+
+However,
+loudness perception|24547000|81742003
+is
+a much more complex process|242762006|103360007|415178003|4757001|103360007|415178003
+than A-weighting.[2]|27113001|272102008|39857003
+
+Loudness|24547000
+is
+also
+affected|247591002|248448006
+by parameters|252116004
+other than sound pressure,|279046003|13543005|257893003|68325009|279046003|68325009|13543005|68325009|257893003
+including|55919000
+frequency,|260864003|272123002
+bandwidth
+and
+duration.[2]|103335007
+
+The perception|81742003
+of loudness|24547000
+is
+related|272151006|262094002
+to
+both
+the sound pressure level|250888003|279046003|250888003|13543005|250888003|257893003
+and
+duration|103335007
+of a sound.|68325009
+
+The human auditory system integrates|278412004|91159003|278412004|281832008
+(averages
+)
+the effects|253861007
+of sound pressure level (SPL)|250888003|279046003|250888003|13543005|250888003|257893003
+over a 600?1,000 ms window.|224755008|385673002
+
+For example,
+a sound|68325009
+of constant SPL|387078006
+will
+be
+perceived|81742003
+to
+increase|260366006
+in loudness|24547000
+as 20,
+50,
+100,
+200 ms samples|123038009
+are
+played|300776002
+,
+up to a maximum|398303009
+of approximately 1 second|26175008|81170007|26175008|257997001|26175008|288495006
+at which
+point
+the perception|81742003
+of loudness|24547000
+will
+stabilize.|409051000
+
+For long duration sounds|260384008
+(greater|263768009
+than 1 second|260305007|81170007|260305007|257997001|260305007|288495006
+)
+,
+the moment
+by moment perception|81742003
+of loudness|24547000
+will
+be
+based|418836005
+on the integration
+of the preceding 600?1,000 ms.|236874000
+
+In terms
+of the relationship|272151006
+between SPL|387078006
+and
+loudness|24547000
+for sounds
+longer|255511005
+than 1 second,|260305007|81170007|260305007|257997001|260305007|288495006
+this
+can
+be
+approximated|26175008
+by a power function|33300005|246464006
+with an exponent
+of 0.6
+when
+plotted
+against sound pressure|279046003|13543005|257893003|68325009|279046003|68325009|13543005|68325009|257893003
+or
+0.3
+when
+plotted
+against sound intensity|103370009|68325009|103370009
+(Stevens' power law.|33300005
+
+More precise measures|242762006|246445000|242762006|367346004
+have
+been
+subsequently
+made
+that
+show
+that loudness|24547000
+grows
+more rapidly|242762006|418694008
+(
+with a higher exponent|75540009|371879000
+)
+at low|62482003|371880002
+and
+high levels|75540009|258395000|371879000|258395000
+and
+less rapidly|276139006|418694008|263796003|418694008
+(
+with a lower exponent|261122009
+)
+at moderate levels.|6736007|258395000
+
+Units|258666001
+used|394850002
+to
+measure|246445000|272391002
+loudness|24547000
+:
+
+The sensitivity|35209006|365705006
+of the human ear|278412004|117590005|278412004|1910005
+changes|243326001|263703002
+as a function|246464006
+of frequency,|260864003|272123002
+as
+shown
+in the equal-loudness graph.|9726003|24547000
+
+Each line|50009006
+on this graph
+shows
+the SPL|387078006
+required
+for frequencies to|272123002
+be
+perceived|81742003
+as equally
+loud.|24547000
+
+It also
+shows
+that humans|278412004
+with good hearing|20572008|47078008|20572008|118230007
+are
+most sensitive|4757001|83185005
+to sounds
+around 2?4 kHz,|260306008|229769005
+with sensitivity declining|35209006|365705006
+to
+either
+side|182353008
+of this region.|410673009
+
+A complete model|255594003
+of the perception|81742003
+of loudness|24547000
+will
+include|55919000
+the integration
+of SPL|387078006
+by frequency|260864003|272123002
+and
+the duration|103335007
+of each.[2]|260306008
+
+When
+sensorineural hearing loss|60700002
+(damage|37782003
+to the cochlea|80169004|181187008
+or
+in the brain|12738006|258335003
+)
+is
+present,|52101004|246105001
+the perception|81742003
+of loudness|24547000
+is
+altered.
+
+Sounds
+at low levels|62482003|258395000|371880002|258395000
+(often|70232002
+perceived|81742003
+by those without hearing loss|45169001|45169001|343087000|45169001|15188001
+as
+relatively quiet|255357006
+)
+are
+no longer audible|255511005
+to the hearing impaired,|343087000|15188001
+but
+interestingly,
+sounds
+at high levels often|75540009|258395000|70232002|371879000|258395000|70232002
+are
+perceived|81742003
+as
+having
+the same loudness|262126009|24547000
+as
+they
+would
+for an unimpaired listener.
+
+This phenomenon
+can
+be
+explained
+by two theories|420797005
+:
+Loudness|24547000
+grows
+more rapidly|242762006|418694008
+for these listeners
+than normal listeners|17621005|258744000
+with changes|243326001|263703002
+in level.|258395000|276625007
+
+This theory
+is
+called "loudness recruitment"|25289003
+and
+has
+been
+accepted|385645004
+as the classical explanation.|255333006|260997001
+
+More recently,|242762006|6493001
+it
+has
+been
+proposed
+that
+some listeners
+with sensorineural hearing loss|60700002
+may
+in fact
+exhibit
+a normal rate|17621005|258744000
+of loudness growth,|24547000
+but
+instead
+have
+an elevated loudness|75540009|24547000
+at their threshold.|118589004
+
+That
+is
+,
+the softest sound|37378003|37378003|68325009
+that
+is
+audible
+to these listeners
+is
+louder|24547000
+than the softest sound audible|37378003|37378003|68325009
+to normal listeners.|17621005|258744000
+
+This theory
+is
+called "softness imperception,|37378003
+"
+a term
+coined
+by Mary Florentine.[3]
+
+The ?loudness? control|24547000|31509003
+on some consumer stereos
+alters
+the frequency response|260864003|272123002
+curve|60301000
+to
+correspond
+roughly
+with the equal loudness|9726003|24547000
+characteristic
+of the ear.|117590005|1910005
+
+Loudness compensation|24547000|260234003|24547000|59811005
+is
+intended to|361269008
+make
+the recorded music sound|68325009
+more natural|242762006|510009
+when
+played|300776002
+at a lower sound pressure level.|261122009|250888003|279046003|261122009|250888003|13543005|261122009|250888003|257893003
+

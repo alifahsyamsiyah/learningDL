@@ -1,0 +1,120 @@
+*
+*Hemopericardium|23412002
+*
+* refers|439980006
+to blood|87612001|119273009
+in the pericardial sac|76848001|361326002
+of the heart.|80891009|302509004
+
+It
+is
+clinically similar
+to a pericardial effusion,|373945007
+and
+,
+depending
+on the volume|118565006|419569009
+and
+rapidity|255358001
+with which
+it
+develops
+,
+may
+cause|23981006|134198009
+cardiac tamponade.[1]|35304003
+
+The condition|260905004
+can
+be
+caused|23981006|134198009
+by full-thickness necrosis|255597005|6574001
+(death|419620001|268923008
+)
+of the myocardium|74281007
+(heart muscle|74281007
+)
+after myocardial infarction,|22298006
+as well as
+trauma,
+[2]|260306008
+and
+in patients|116154003
+receiving
+anticoagulants.|372862008
+
+Other causes|74964007|134198009
+include|55919000
+ruptured aneurysm|22039006
+of sinus|428794004|2095001
+of Valsalva
+and
+other aneurysms
+of the aortic arch.[5]|57034009|181300001
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+
+M
+:
+VAS|273903006
+
+anat(
+a
+:
+h/u/t/a/l,v:h/u/t/a/l/phys/devp/cell/prot|4421005|304383000|362837007|304383000
+
+noco/syva/cong/lyvd/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C2s+n/3/4/5/7/8/9
+
+M
+:
+HRT|266717002
+
+anat/phys/devp
+
+noco/cong/tumr,
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(C1A/1B/1C/1D,|264654002
+blte
+
+M
+:
+RES
+
+anat(n,
+x,
+l,|258995007|420559008
+c/phys/devp
+
+noco
+(c,
+p/cong/tumr,|20304007
+sysi/epon,
+injr
+
+proc,
+drug|410942007
+(R1/2/3/5/6/7
+

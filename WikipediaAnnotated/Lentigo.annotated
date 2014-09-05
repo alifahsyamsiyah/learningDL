@@ -1,0 +1,202 @@
+A
+*
+*lentigo|398744007
+*
+*
+(plural|260396001
+:
+*
+*lentigines|398744007
+*
+*
+)
+is
+a small pigmented spot|255507004|300597003|23840004
+on the skin|119325001|39937001|181469002
+with a clearly-defined edge,|57183005
+surrounded|355648006
+by normal-appearing skin.|225544001
+
+It
+is
+a harmless
+(benign|30807003
+)
+hyperplasia|76197007
+of melanocytes|9683001
+which
+is
+linear|50009006
+in its spread.|410677005
+
+This means|255586005
+the hyperplasia|76197007
+of melanocytes|9683001
+is
+restricted|263856008
+to the cell|4421005|362837007
+layer
+directly
+above the basement membrane|68989006
+of the epidermis|55988001
+where melanocytes normally|9683001
+reside.
+
+This
+is
+in contrast
+to the "
+nests
+"
+of multi-layer melanocytes|260396001|9683001
+found|404684003
+in moles|21119008|106925002
+(melanocytic nevi|21119008
+).
+
+Because of this characteristic feature,
+the adjective "lentiginous"|255428006
+is
+used to|394850002
+describe
+other skin lesions|74964007|95324001
+that similarly
+proliferate
+linearly
+within the basal cell layer.|62650009
+
+[2]|260306008
+
+Lentigines|398744007
+are
+distinguished
+from freckles|72298008
+(ephelis|72298008
+)
+based|418836005
+on the proliferation|30217000
+of melanocytes.|9683001
+
+Freckles|72298008
+have
+a relatively normal number|11779005
+of melanocytes|9683001
+but
+an increased _amount_|35105006|107651007|260366006|107651007
+of melanin.|59094002
+
+A lentigo|398744007
+has
+an increased _number_|35105006|410680006|35105006|410681005|260366006|410680006|260366006|410681005
+of melanocytes.|9683001
+
+Freckles|72298008
+will
+increase|260366006
+in number|410680006|410681005
+and
+darkness|255419005
+with sunlight exposure,|49926000|71677004|49926000|24932003
+whereas
+lentigines|398744007
+will
+stay
+stable|58158008
+in their color|263714004
+regardless of sunlight exposure.[2]|49926000|71677004|49926000|24932003
+
+Conditions|260905004
+characterized
+by lentigines|398744007
+include|55919000
+:
+[3]|260313008
+:
+686-687
+
+_vitiligo|56727007
+:
+_ Quadrichrome vitiligo ? Vitiligo ponctu?|56727007
+? _syndromic_
+(Alezzandrini syndrome ? Vogt?|403275004
+Koyanagi?Harada syndrome|193497004
+
+_albinism|15890002
+:
+_ Oculocutaneous albinism ? Ocular albinism|63844009|26399002
+
+_melanosome transfer|302265009
+:
+_ Hermansky?Pudlak syndrome ? Ch?diak?|9311003|225725005
+Higashi syndrome ? Griscelli syndrome
+(Elejalde syndrome ? Griscelli syndrome type 2 ? Griscelli syndrome type 3|258199000
+
+*
+*Lentigo|398744007
+*
+*/Lentiginosis|398744007
+:
+Lentigo simplex ? Liver spot ? Centrofacial lentiginosis ? Generalized lentiginosis ?|398900000|72100002|18822004|60132005
+Inherited|255404009
+patterned lentiginosis|272135003|398744007
+in black persons ? Ink spot lentigo ? Lentigo maligna ? Mucosal lentigines ? Partial unilateral lentiginosis ? PUVA lentigines|315240009|125676002|46384008|23840004|302836005|239134005|255609007|66459002|315240009|125676002|46384008|23840004|302836005|313268005|255609007|239131002|413464008|125676002|46384008|23840004|302836005|239134005|255609007|66459002|413464008|125676002|46384008|23840004|302836005|313268005|255609007|239131002|15086000|125676002|46384008|23840004|302836005|239134005|255609007|66459002|15086000|125676002|46384008|23840004|302836005|313268005|255609007|239131002|371252007|125676002|46384008|23840004|302836005|239134005|255609007|66459002|371252007|125676002|46384008|23840004|302836005|313268005|255609007|239131002
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+
+Nevus|21119008
+of Ito/Nevus|48543002
+of Ota ? Compound nevus ? Spitz nevus|414929001|62105006|254811006
+(Pigmented spindle cell nevus ? Halo nevus ? Junctional nevus ? Pseudomelanoma|254812004|398028009|254802006
+
+Blue nevus|254806009
+(Blue nevus|254806009
+of Jadassohn?Ti?che,|223642007
+Cellular blue nevus,|254808005
+Epithelioid blue nevus,|254806009
+Deep penetrating nevus,|131197000|53568006|131197000|53568006|21119008|131197000|53568006
+Amelanotic blue nevus,|254806009
+Malignant blue nevus|307603002
+
+Congenital melanocytic nevus|398943008
+(Giant pigmented nevus,|254815002
+Medium-sized congenital nevocytic nevus,|255508009|277049003|6160004|255508009|277049003|6160004|21119008|255508009|277049003|6160004|255508009|277049003|255399007|255508009|277049003|255399007|21119008|255508009|277049003|255399007
+Small-sized congenital nevocytic nevus|128881008|277049003
+
+Balloon cell nevus ? Dysplastic nevus/Dysplastic nevus syndrome|8276007|254819008
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+

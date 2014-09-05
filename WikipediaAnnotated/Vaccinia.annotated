@@ -1,0 +1,787 @@
+_
+*
+*Vaccinia virus|13126002
+*
+*_
+
+*
+*Vaccinia** virus|13126002
+(
+*
+*VACV
+*
+*
+or
+*
+*VV
+*
+*
+)
+is
+a large, complex,|255509001|103360007
+enveloped
+virus belonging|49872002
+to the poxvirus family.|424976006|35359004
+
+It
+has
+a linear, double-stranded DNA genome approximately 190 kbp|50009006|13925004|18470003|26175008|304615006
+in length,|410668003
+and
+which
+encodes
+for approximately 250 genes.|26175008|67271001
+
+The dimensions|255506008
+of the virion|285296008
+are
+roughly 360 ? 270 ? 250 nm,
+with a mass|300848003|118538004
+of approximately 5-10 fg.|26175008|258688001
+
+Vaccinia virus|13126002
+is
+well known|20572008|36692007
+for its role
+as a vaccine|398827000
+(
+its namesake
+)
+that
+eradicated
+the smallpox disease,|67924001
+making
+it the first human disease to|255216001|278412004|64572001|232714002|278412004|64572001
+be
+successfully
+eradicated
+by science.
+
+This endeavour
+was
+carried|288345009
+out
+by the World Health Organization|263775005|21139007
+under the Smallpox Eradication Program.|67924001|243568000
+
+Post eradication|288563008
+of smallpox,|67924001|243568000
+scientists|308027003
+study|110465008|224699009
+Vaccinia virus to|13126002
+use|277889008|419385000
+as a tool|86967005
+for delivering genes|67271001
+into biological tissues
+(gene therapy|394613000
+and
+genetic engineering.|3950001|106269003|255395001|106269003
+
+In the early 21st century,|264499004
+due to concerns
+about smallpox|67924001|243568000
+being
+used|394850002
+as an agent|260872001
+for bioterrorism,
+there
+was
+renewed
+interest|225469004
+in studying|110465008|224699009
+the Vaccinia virus.|13126002
+
+Vaccinia infections|111852003|13126002
+may
+be
+divided|422033008
+into the following types|255260001|261664005
+:
+[3]|260313008
+:
+391
+
+Vaccinia virus|13126002
+is
+closely
+related|272151006|262094002
+to the virus|49872002
+that
+causes|134198009
+cowpox|70090004
+;
+historically
+the two|420797005
+were
+often|70232002
+considered to
+be
+one|421379005
+and
+the same.|262126009
+
+The precise origin|255395001
+of vaccinia virus|13126002
+is
+unknown|261665006
+,
+however,
+due to the lack|41277001
+of record-keeping
+as the virus|49872002
+was
+repeatedly|27582007
+cultivated
+and
+passaged|255592004
+in research laboratories|261904005
+for many decades.
+
+The most common notion|4757001|72906007
+is
+that vaccinia virus,|13126002
+cowpox virus,|37362000
+and
+variola virus|243568000
+(
+the causative agent|362944004
+of smallpox|67924001|243568000
+)
+were
+all
+derived
+from a common ancestral virus.|72906007|49872002|72906007
+
+There
+is
+also
+speculation
+that vaccinia virus|13126002
+was
+originally
+isolated|46651001
+from horses.[4]|35354009
+
+Poxviruses|424976006
+are
+unique
+among DNA viruses|32478008
+because
+they
+replicate|1305003|27582007
+only
+in the cytoplasm
+of the host cell,|4421005|362837007
+outside of the nucleus.|84640000
+
+Therefore,
+the large genome|255509001|18470003
+is
+required
+for encoding various enzymes|256220008|90668006
+and
+proteins|88878007
+involved|248448006
+in viral DNA replication|74256009
+and
+gene transcription.|10589004
+
+During its replication cycle,|74256009|44180009
+VV
+produces
+four infectious forms|421534005|246176004
+which
+differ
+in their outer membranes|261074009|83097008
+:
+intracellular mature virion (IMV),|83167003|34071009|285296008
+the intracellular enveloped virion (IEV),|83167003|285296008
+the cell-associated enveloped virion|4421005|47429007|285296008|362837007|47429007|285296008
+(CEV
+)
+and
+the extracellular enveloped virion|69320009|285296008
+(EEV
+).
+
+Although
+the issue|55607006
+remains
+contentious,
+the prevailing view|246516004
+is
+that
+the IMV
+consists
+of a single lipoprotein membrane,|125681006|301861005|83097008|50607009|301861005|83097008
+while
+the CEV
+and
+EEV
+are
+both
+surrounded|355648006
+by two membrane layers|420797005|83097008
+and
+the IEV
+has
+three envelopes.|421291004
+
+The IMV
+is
+the most abundant infectious form|4757001|246176004
+and
+is
+thought to|88952004
+be
+responsible|394851003
+for
+spread|410677005
+between hosts.
+
+On the other hand,|74964007|85562004|74964007|302539009
+the CEV
+is
+believed to
+play|300776002
+a role
+in cell-to-cell|4421005|362837007
+spread|410677005
+and
+the EEV
+is
+thought to|88952004
+be
+important
+for long range dissemination|255511005|65709003
+within the host organism.|410653004
+
+Vaccinia|111852003|13126002
+contains|42504009
+within its genome several proteins|18470003|88878007
+that
+give|419582001
+the virus resistance|49872002|30714006|30714006
+to interferons.|49327004
+
+K3L
+is
+a protein|88878007
+with homology
+to the protein _eukaryotic initiation factor 2_|88878007|415671008|312009002
+(eIF-2alpha
+).
+
+K3L protein|88878007
+inhibits|61511001
+the action|129264002
+of PKR,
+an activator
+of interferons.|49327004
+
+E3L
+is
+another protein|88878007
+encoded
+by Vaccinia.|111852003|13126002
+
+E3L also
+inhibits|61511001
+PKR activation
+;
+and
+is
+also able to|371150009
+bind|257768005
+to double stranded RNA.[8]|102761003
+
+A Vaccinia virus infection|13126002|111852003|34014006|13126002|34014006
+is
+very mild|260358002|255604002
+and
+is
+typically asymptomatic|84387000
+in healthy individuals,|263775005|125676002|263775005|385435006
+but
+it
+may
+cause|23981006|134198009
+a mild rash|255604002|271807003
+and
+fever.|386661006
+
+Immune responses|35024006
+generated
+from a Vaccinia virus infection|13126002|111852003|34014006|13126002|34014006
+protects
+the person|125676002
+against a lethal smallpox infection.|67924001|243568000
+
+For this reason,|410666004
+Vaccinia virus|13126002
+was
+,
+and
+is
+still
+being
+used|394850002
+as a live-virus vaccine|419749002|37362000
+against smallpox.|67924001|243568000
+
+Unlike vaccines|398827000
+that
+use|277889008|419385000
+weakened forms|246176004
+of the virus|49872002
+being
+vaccinated
+against,
+the Vaccinia virus vaccine|398756008
+cannot
+cause|23981006|134198009
+a smallpox infection|67924001|243568000
+because
+it
+does
+not
+contain|42504009
+the smallpox virus.|243568000
+
+However,
+certain complications|17162000|116223007
+and/or
+vaccine adverse effects occasionally|398827000
+arise.|68727004
+
+The chance
+of this happening
+is
+significantly
+increased|35105006|260366006
+in people|125676002
+who
+are
+immunocompromised.|370391006
+
+Approximately|26175008
+one|421379005
+in one million individuals|421379005|125676002|421379005|385435006
+will
+develop
+a fatal response|399166001
+to the vaccination.
+
+Currently,|15240007
+the vaccine|398827000
+is
+only
+administered|418283001
+to health care workers
+or
+research personnel
+who
+have
+a high risk|15508007
+of contracting|78558002
+the variola virus,|243568000
+and
+to the military personnel|302314004
+of the United States of America.|223688001
+
+Due to the present threat|52101004|246105001
+of smallpox-related bioterrorism,|67924001|272151006|67924001|262094002|243568000|272151006|243568000|262094002
+there
+is
+a possibility
+the vaccine|398827000
+may
+have
+to
+be
+widely
+administered|418283001
+again
+in the future.
+
+Therefore,
+scientists|308027003
+are
+currently|15240007
+developing
+novel vaccine strategies|7147002|398827000
+against smallpox|67924001|243568000
+which
+are
+safer
+and
+much faster|242762006|16985007|242762006|277748003|4757001|16985007|4757001|277748003
+to deploy
+during a bioterrorism event.|272379006
+
+On September 1,
+2007,
+the U.S.|223688001
+Food and Drug Administration (FDA)|255620007|18629005
+licensed
+a new vaccine ACAM2000|7147002|398827000
+against smallpox|67924001|243568000
+which
+can
+be
+produced
+quickly
+upon need.|410525008|103325001
+
+Manufactured
+by Acambis
+of Cambridge,
+England,|223664003
+and
+Cambridge,
+Massachusetts,|224066008
+the U.S.|223688001
+
+Centers for Disease Control and Prevention|26216008|64572001|31509003|169443000
+stockpiled
+192.5 million doses|277406006
+of the new vaccine|7147002|398827000
+(
+see|281004000
+list
+of common strains|72906007|48532005|72906007|276768000
+below
+).[9]
+
+_Vaccinia_|111852003|13126002
+is
+also
+used|394850002
+in recombinant vaccines,|398827000
+as
+a vector|260529001
+for expression|10012005
+of foreign genes|67271001
+within a host,
+in order to
+generate
+an immune response.|35024006
+
+Other poxviruses|74964007|424976006
+are
+also
+used|394850002
+as live recombinant vaccines.[10]|419749002|398827000
+
+The original vaccine|19535007|398827000
+for smallpox,|67924001|243568000
+and
+the origin|255395001
+of the idea|363878000
+of vaccination,
+was
+Cowpox,|70090004
+reported|229059009|223458004
+on
+by Edward Jenner
+in 1796.
+
+The Latin term
+used|394850002
+for Cowpox|70090004
+was
+_variola vaccina_,|67924001
+essentially
+a direct translation|255589003
+of "cow-related pox".|70090004|272151006|70090004|262094002
+
+That term
+lent
+its name
+to the whole idea|260232004|363878000
+of vaccination.
+
+When
+it
+was
+realized
+that
+the virus|49872002
+used|394850002
+in smallpox vaccination|40001004
+was
+not,
+or
+was
+no longer,|255511005
+the same|262126009
+as the Cowpox virus,|37362000
+the name 'vaccinia'|111852003|13126002
+stayed
+with the vaccine-related virus.|37362000|272151006|37362000|262094002
+
+(
+See|281004000
+OED.
+)
+Vaccine potency|398827000|30207005
+and
+efficacy
+prior to the invention
+of refrigerated methods|260686004|272394005
+of transportation
+was
+unreliable.
+
+The vaccine|398827000
+would
+be
+rendered
+impotent|397803000
+by heat|88999006
+and
+sunlight,|49926000
+and
+the method|260686004|272394005
+of drying samples|257791009|123038009
+on quills|360321001
+and
+shipping|224673002
+them
+to countries|223369002
+in need often|410525008|70232002|103325001|70232002
+resulted|42752001|394617004
+in an inactive vaccine.|73425007|398827000
+
+Another method|260686004|272394005
+employed|224363007
+was
+the "arm|40983000|53120007|182245002|302538001
+to arm" method.|40983000|260686004|40983000|272394005|53120007|260686004|53120007|272394005|182245002|260686004|182245002|272394005|302538001|260686004|302538001|272394005
+
+This involved vaccinating|248448006
+an individual then transferring|125676002|129005007|385435006|129005007
+it
+to another
+as soon
+as the infectious pustule forms,|271760008|246176004
+then
+to another,
+etc.
+
+This method|260686004|272394005
+was
+used|394850002
+as a form|246176004
+of living transportation
+of the vaccine,|398827000
+and
+usually employed orphans|224363007|373929005
+as carriers.|47461006
+
+However,
+this method|260686004|272394005
+was
+problematic
+due to the possibility
+of
+spreading|410677005
+other blood diseases,|74964007|34093004
+such as hepatitis|128241005|40468003|396423004
+and
+syphilis.|76272004
+
+41 Italian children|297502002|410601007|297502002|160499008|31637002|410601007|31637002|160499008
+contracted|78558002
+syphilis|76272004
+after
+being
+vaccinated
+by the arm|40983000|53120007|182245002|302538001
+to arm method|40983000|260686004|40983000|272394005|53120007|260686004|53120007|272394005|182245002|260686004|182245002|272394005|302538001|260686004|302538001|272394005
+in 1861.[11]
+
+In 1913,
+E.
+
+Steinhardt,
+C.
+
+Israeli,
+and
+R.|24028007
+
+A.
+
+Lambert
+grew
+vaccinia virus|13126002
+in fragments|29140007
+of guinea pig corneal tissue culture.[12]|392192009|28726007|77601007|125076001|28726007|77601007
+
+In 1939 Alan Downie
+showed
+that
+the smallpox vaccines|396439006
+being
+used|394850002
+in the 20th century
+and
+cowpox virus|37362000
+were
+not
+the same,|262126009
+but
+some
+sorts
+of cousins.[13][14]|55538000
+
+In March 2007,
+a 2-year-old Indiana boy|260306008|258707000|70753007|224059007|433152004|260306008|259039008|70753007|224059007|433152004
+and
+his mother|72705000
+contracted|78558002
+a life-threatening vaccinia infection|224130005|111852003|224130005|13126002
+from the boy's father.|433152004|66839005
+
+The boy|433152004
+developed
+the telltale rash|271807003
+over 80 percent|118582008
+of his body|279495008|123037004
+after coming|237679004|288563008
+into close contact|29179001|11723008|29179001|70862002
+with his father,|66839005
+who
+was
+vaccinated
+for smallpox|67924001|243568000
+before
+being
+deployed overseas
+by the United States Army.|223688001
+
+The United States military|223688001|302314004
+resumed smallpox vaccinations|40001004
+in 2002.
+
+The child|410601007|160499008
+acquired|255396000
+the infection
+due to eczema,|281104002
+which
+is
+a known risk factor|36692007|80943009
+for vaccinia infection.|111852003|13126002
+
+The boy|433152004
+was
+treated|28995006
+with intravenous immunoglobulin,|350344000
+cidofovir,|386894007
+and
+an experimental drug|902003
+being
+developed
+by SIGA Technologies.|29661001
+
+On April 19,
+2007,
+he
+was
+sent
+home|261770009
+with no after effects|237679004|253861007|288563008|253861007
+except for possible scarring|371930009|371930009|275322007|60022001|60022001|275322007
+of the skin.[15]|119325001|39937001|181469002
+
+In 2010,
+the Centers for Disease Control and Prevention|26216008|64572001|31509003|169443000
+(CDC
+)
+reported|229059009|223458004
+that
+a woman|224526002
+in Washington|421908005
+had
+contracted vaccinia virus infection|78558002|13126002|78558002|111852003|34014006|78558002|13126002|34014006
+after digital vaginal contact|261006005|76784001|11723008|261006005|76784001|70862002|261006005|11723008|261006005|70862002|82680008|76784001|11723008|82680008|76784001|70862002|82680008|11723008|82680008|70862002
+with her boyfriend,|79756005
+a military member|302314004|394852005
+who
+had
+recently|6493001
+been
+vaccinated
+for smallpox.|67924001|243568000
+
+The woman|224526002
+had
+a history|392521001
+of childhood eczema,|68433009|281104002
+but
+she
+had
+not
+been
+symptomatic|264931009
+as an adult.|133936004
+
+The CDC
+indicated|410535002
+that
+it
+was
+aware|312012004
+of four similar cases|421534005|398241000|421534005|413769002
+in the preceding 12 months|236874000|258706009
+of vaccinia infection|111852003|13126002
+after sexual contact|365952006|11723008|365952006|70862002
+with a recent military vaccinee.[17]|6493001|302314004
+
+This
+is
+a list
+of some
+of the well-characterized vaccinia strains|20572008|111852003|48532005|20572008|111852003|276768000|20572008|13126002|48532005|20572008|13126002|276768000
+used|394850002
+in research
+and
+immunizations.|127785005
+
+M
+:
+VIR|224004008
+
+virs
+(prot/clss|304383000
+
+cutn/syst
+(hppv/hiva,
+infl/zost/zoon/epon
+
+drug|410942007
+(dnaa,
+rnaa,
+rtva,
+vacc
+
+M
+:
+INT,
+SF,
+LCT
+
+anat/phys/devp
+
+noco
+(i/b/d/q/u/r/p/m/k/
+v/
+f/cong/tumr|372639009
+(n/e/d,|258310009
+sysi/epon
+
+proc,
+drug|410942007
+(D2/3/4/5/8/11
+

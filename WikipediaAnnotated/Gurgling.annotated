@@ -1,0 +1,246 @@
+Historically,
+probably
+the most commonly studied cases|4757001|398241000|4757001|413769002
+of two-phase flow|420797005|21191007
+are
+in large-scale power systems.|255509001|19892000|33300005|246333005|255509001|278111002|33300005|246333005
+
+Coal|34323004
+and
+gas-fired power stations|257203002|284558000
+used|394850002
+very large boilers to|258262008|15873008
+produce
+steam|27177009
+for use|277889008|419385000
+in turbines.
+
+In such cases,|398241000|413769002
+pressurised water|11713004|119318008
+is
+passed
+through heated pipes|88999006
+and
+it
+changes|243326001|263703002
+to
+steam|27177009
+as
+it
+moves|302000008
+through the pipe.
+
+The design
+of boilers|15873008
+requires
+a detailed understanding|66216009
+of two-phase flow heat-transfer|420797005|21191007|88999006|302265009
+and
+pressure drop behaviour,|279046003|404218003|844005|13543005|404218003|844005|257893003|404218003|844005
+which
+is
+significantly different|263735002
+from the single-phase case.|125681006|21191007|398241000|50607009|21191007|398241000
+
+Even more critically,
+nuclear reactors|66096004
+use|277889008|419385000
+water to|11713004|119318008
+remove|127485006
+heat|88999006
+from the reactor core|260235002
+using|260676000
+two-phase flow.|420797005|21191007
+
+A great deal|255509001|263768009
+of study|110465008|224699009
+has
+been
+performed|398166005
+on the nature|277302009
+of two-phase flow|420797005|21191007
+in such cases,|398241000|413769002
+so
+that engineers|106269003
+can
+design
+against possible failures|371930009|76797004|60022001|76797004
+in pipework,
+loss
+of pressure,|279046003|13543005|257893003
+and
+so|223528007
+on
+(
+a loss-of-coolant accident (LOCA)|55566008
+).[1]|260305007
+
+Another case|398241000
+where two-phase flow|420797005|21191007
+can
+occur|272120004
+is
+in pump cavitation.|44668000|2483006
+
+Here
+a pump|44668000
+is
+operating
+close|29179001
+to the vapor pressure|285402002
+of the fluid|32457005|33463005|255765007
+being
+pumped.|44668000
+
+If pressure drops further,|279046003|426684005|46053002|279046003|404218003|46053002|13543005|426684005|46053002|13543005|404218003|46053002|257893003|426684005|46053002|257893003|404218003|46053002
+which
+can
+happen locally
+near the vanes|224832000
+for the pump,|44668000
+for example,
+then
+a phase change|21191007|243326001|21191007|263703002
+can
+occur|272120004
+and
+gas|308698004|74947009
+will
+be
+present|52101004|246105001
+in the pump.|44668000
+
+Similar effects|253861007
+can
+also
+occur|272120004
+on marine propellors
+;
+wherever
+it
+occurs|272120004
+,
+it
+is
+a serious problem|42745003|55607006
+for designers.
+
+When
+the vapor bubble collapses,|16277007
+it
+can
+produce
+very large pressure spikes,|258262008|279046003|258262008|13543005|258262008|257893003
+which over time|21481007|410669006
+will
+cause|23981006|134198009
+damage|37782003
+on the propellor
+or
+turbine.
+
+The above two-phase flow cases|261183002|420797005|21191007|398241000|261183002|420797005|21191007|413769002
+are
+for a single fluid|125681006|32457005|125681006|33463005|125681006|255765007|125681006|50607009|32457005|50607009|33463005|50607009|255765007|50607009
+occurring|272120004
+by itself
+as
+two different phases,|420797005|263735002|272108007
+such as steam|27177009
+and
+water.|11713004|119318008
+
+The term 'two-phase flow'|420797005|21191007
+is
+also
+applied|410618006
+to mixtures|272163001
+of different fluids|263735002|32457005|263735002|33463005
+having
+different phases,|263735002|272108007
+such as air|417696007
+and
+water,|11713004|119318008
+or
+oil|21847005|421890007
+and
+natural gas.|2698003
+
+Sometimes even _three_-phase flow|421291004|21191007
+is
+considered,
+such as
+in oil|21847005|421890007
+and
+gas pipelines|308698004|74947009
+where there
+might
+be
+a significant fraction|386134007|278277004
+of solids.|35702001|78910004
+
+Other interesting areas|74964007|225469004|42798000
+where two-phase flow|420797005|21191007
+is
+studied|110465008|224699009
+includes|55919000
+in climate systems|246333005
+such as clouds,|81858005
+[1]|260305007
+and
+in groundwater flow,
+in which
+the movement|255324009
+of water|11713004|119318008
+and
+air|417696007
+through the soil|415555003
+is
+studied.|110465008|224699009
+
+Other examples|74964007
+of two-phase flow|420797005|21191007
+include|55919000
+bubbles,
+rain,
+waves
+on the sea,|225742004
+foam,|421166008
+fountains,
+mousse,|227734001
+cryogenics,
+and
+oil slicks.|21847005|421890007
+
+Several features|261028005
+make
+two-phase flow|420797005|21191007
+an interesting|225469004
+and
+challenging branch|127484005
+of fluid mechanics|32457005|261018001|33463005|261018001|255765007|261018001|261018001
+:
+
+Gurgling|24436009
+is
+a characteristic sound|68325009
+made
+by unstable two-phase fluid flow,|263922001|420797005|21191007|32457005|263922001|420797005|21191007|33463005|263922001|420797005|21191007|255765007|263922001|420797005|21191007
+for example,
+as
+liquid|33463005|264312008
+is
+poured
+from a bottle,|68276009|419672006
+or
+during gargling.|31105004
+
+Modelling
+of two phase flow|420797005|21191007
+is
+still
+under development.|278923009
+
+Known methods|36692007|260686004|36692007|272394005
+are
+
