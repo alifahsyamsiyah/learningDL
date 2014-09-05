@@ -1,0 +1,2 @@
+loadClassifier= ./model.ser.gz
+testFile= ./positive.types.explicit.test

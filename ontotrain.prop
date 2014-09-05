@@ -1,0 +1,52 @@
+#
+# Features
+#
+useClassFeature=true
+1.useNGrams=true
+1.usePrefixSuffixNGrams=true
+1.maxNGramLeng=4
+1.minNGramLeng=1
+1.binnedLengths=10,20,30
+
+2.useNGrams=true
+2.usePrefixSuffixNGrams=true
+2.maxNGramLeng=4
+2.minNGramLeng=1
+2.binnedLengths=10,20,30
+
+3.useNGrams=true
+3.usePrefixSuffixNGrams=true
+3.maxNGramLeng=4
+3.minNGramLeng=1
+3.binnedLengths=10,20,30
+
+4.useString=true
+5.useString=true
+
+#
+# Printing
+#
+# printClassifier=HighWeight
+printClassifierParam=200
+
+
+#
+# Mapping
+#
+goldAnswerColumn=0
+displayedColumn=6
+
+#
+# Optimization
+#
+intern=true
+sigma=3
+useQN=true
+QNsize=15
+tolerance=1e-4
+#
+# Training input
+#
+trainFile= D:/EMCL/Semester1/Project/CODEFINAL/positive.types.explicit.train
+serializeTo= D:/EMCL/Semester1/Project/CODEFINAL/model.ser.gz
+#testFile= ./positive.types.explicit.train.new
