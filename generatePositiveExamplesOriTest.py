@@ -3,20 +3,14 @@ import re
 from glob import glob
 from loadDictionaries import snomed2names
 
-# ROLEPATH = '/users/lat/felix/Dropbox/Work/Hybris/Snomed2012Jan_RolePairs_Explicit/'
-#ROLEPATH = '../data/rolepairs/'
-#ROLEPATH   = '/users/lat/mayue/implementation/PubMed/Experiments/CommonDataForAllExperiments/3RelationBase/COMPLETE/'
-ROLEPATH = 'D:/EMCL/Semester1/Project/CODEFINAL/'
+CURRENTPATH = 'D:/learningDL-master/'
+
+ROLEPATH = CURRENTPATH
 AM_FILE = ROLEPATH + 'Associated morphology (attribute).csv'
 CA_FILE = ROLEPATH + 'Causative agent (attribute).csv'
 FS_FILE = ROLEPATH + 'Finding site (attribute).csv'
-
-#PREPPATH = "/users/lat/mayue/implementation/PubMed/Experiments/Exp0_D4D_withoutMakefile/work1/STFDClassification/testdata/"
-TRAIPATH = "D:/EMCL/Semester1/Project/CODEFINAL/"
-#ANNOPATH = "/users/lat/mayue/implementation/PubMed/Experiments/CommonDataForAllExperiments/Felix/WikipediaAnnotated/"
-ANNOPATH = "D:/EMCL/Semester1/Project/CODEFINAL/WikipediaAnnotated/"
-
-#TMPPATH = ANNOPATH
+TRAIPATH = CURRENTPATH
+ANNOPATH = CURRENTPATH + 'WikipediaAnnotated/'
 
 PREPOSITIONS = set(['about', 'above', 'across', 'after', 'against', 'along',
     'alongside', 'amid', 'among', 'around', 'as', 'at', 'atop', 'before',
