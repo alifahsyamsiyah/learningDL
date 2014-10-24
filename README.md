@@ -8,7 +8,8 @@ Prerequisites:
     To test, run python generatePositiveExamplesOriTest.py
 3. Stanford Parser.
     You can download website http://nlp.stanford.edu/software/lex-parser.shtml.
-    After extracting the folder, make sure that you rename the outer folder become "stanford-parser".
+    After extracting the folder, make sure that you rename the outer folder become "stanford-parser"
+    (rename "stanford-parser-full-20xx-xx-xx" become "stanford-parser".
     Then put that folder in the same directory with this source code directory. 
 
 How to run:
