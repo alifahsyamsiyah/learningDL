@@ -2,8 +2,9 @@ import csv
 import re
 from glob import glob
 from loadDictionaries import snomed2names
+import os
 
-CURRENTPATH = 'D:/learningDL-master/'
+CURRENTPATH = os.getcwd() + '/'
 
 ROLEPATH = CURRENTPATH
 AM_FILE = ROLEPATH + 'Associated morphology (attribute).csv'
