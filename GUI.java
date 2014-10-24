@@ -215,7 +215,7 @@ public class GUI extends JFrame implements ActionListener, MouseListener {
                 reverselist = new LinkedList<Boolean>();
                 
                 /** call the Parser **/
-                String[] param = {"-retainTMPSubcategories", "-outputFormat", "penn", "D:\\EMCL\\Semester1\\Project\\stanford-parser-full-2013-11-12\\edu\\stanford\\nlp\\models\\lexparser\\englishPCFG.ser.gz", inputfile}; 
+                String[] param = {"-retainTMPSubcategories", "-outputFormat", "penn", ".\\stanford-parser\\edu\\stanford\\nlp\\models\\lexparser\\englishPCFG.ser.gz", inputfile}; 
                 LexicalizedParser.main(param);
                 ArrayList<Tree> listAnsTree = LexicalizedParser.listAnsTree;
                 
